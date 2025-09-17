@@ -15,6 +15,8 @@ My name is Seven317(Tang). I'm a second-year student at ASIA University in Taiwa
 ---
 <div align="center">
   <picture>
-    <img alt="github-snake" src="commitsanke.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
   </picture>
 </div>
