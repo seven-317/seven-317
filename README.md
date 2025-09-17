@@ -17,6 +17,6 @@ My name is Seven317(Tang). I'm a second-year student at ASIA University in Taiwa
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://seven-317.github.io/seven-317/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://seven-317.github.io/seven-317/github-snake.svg" />
-    <img alt="github-snake" src="https://seven-317.github.io/seven-317/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/seven-317/seven-317/gh-pages/github-snake.svg" alt="github-snake" />
   </picture>
 </div>
