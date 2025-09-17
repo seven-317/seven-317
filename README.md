@@ -13,7 +13,6 @@ My name is Seven317(Tang). I'm a second-year student at ASIA University in Taiwa
 -   :coffee: Currently diving into full-stack, system design, and UI patterns  
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seven-317)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
   <picture>
     <img alt="github-snake" src="me.svg" />
