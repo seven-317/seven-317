@@ -18,3 +18,4 @@ My name is Seven317(Tang). I'm a second-year student at ASIA University in Taiwa
     <img alt="github-snake" src="me.svg" />
   </picture>
 </div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=seven-317&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
