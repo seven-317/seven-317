@@ -3,7 +3,7 @@ name: Generate GitHub Snake
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # 每天 00:00 UTC 跑一次（台灣早上 8 點）
+    - cron: "0 */3 * * *" # 每天 00:00 UTC 跑一次（台灣早上 8 點）
 
 jobs:
   build:
@@ -17,10 +17,28 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             "dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9"
-            # ↑ 這行用引號包起來，或改成 %23bfd6f6,%238dbdff,... 也可
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: snake
           path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write      # 允許 push 到 gh-pages
+    steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: snake
+          path: dist
+
+      - name: Publish to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: gh-pages
