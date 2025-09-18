@@ -1,8 +1,8 @@
-My name is Seven317(Tang). I'm a second-year student at ASIA University Computer Science and Information Engineering in Taiwan.
+My name is Seven317 (Tang). I'm a second-year student at ASIA University Computer Science and Information Engineering in Taiwan.
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://awesome-github-stats.azurewebsites.net/user-stats/seven-317?cardType=level&theme=dark&preferLogin=false">
-    <img align="right" width="50%" src="https://awesome-github-stats.azurewebsites.net/user-stats/seven-317?cardType=level&theme=dark&preferLogin=false">
+    <source media="(prefers-color-scheme: dark)" srcset="https://awesome-github-stats.azurewebsites.net/user-stats/seven-317?cardType=level&theme=react&preferLogin=false">
+    <img align="right" width="50%" src="https://awesome-github-stats.azurewebsites.net/user-stats/seven-317?cardType=level&theme=react&preferLogin=false">
     
 </picture>
 
