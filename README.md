@@ -13,6 +13,16 @@ My name is Seven317(Tang). I'm a second-year student at ASIA University in Taiwa
 -   :coffee: Currently diving into full-stack, system design, and UI patterns  
 
 ---
+### 🌱 What I'm Learning
+Here are some things I'm currently exploring or plan to dive into:
+- Cloudflare Workers & Edge Functions ☁️  
+- Data Visualization & Storytelling 📊  
+- Human-Computer Interaction (HCI) 🧑‍💻  
+- Game Development & Design 🎮  
+- Cybersecurity Basics 🔐  
+- Design Systems & Component Libraries 🎨  
+- Large Language Models (LLMs) & AI 🤖
+---
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seven-317/seven-317/gh-pages/github-snake-dark.svg" />
