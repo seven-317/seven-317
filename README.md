@@ -1,4 +1,4 @@
-My name is Seven317(Tang). I'm a second-year student at ASIA University in Taiwan.
+My name is Seven317(Tang). I'm a second-year student at ASIA University Computer Science and Information Engineering in Taiwan.
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-flame-omega-24.vercel.app/api?username=seven-317&theme=dracula&show_icons=true">
