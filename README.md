@@ -10,9 +10,10 @@ My name is Seven317(Tang). I'm a second-year student at ASIA University in Taiwa
 -   :rocket: Building side projects like [VALKI](https://valki.app) (Valorant Companion App)  
 -   :books: Learning full-stack dev with [Next.js](https://nextjs.org/) / [Flutter](https://flutter.dev/)  
 -   :cloud: Exploring DevOps with [Docker](https://www.docker.com/) & [Cloudflare](https://www.cloudflare.com/)  
--   :coffee: Currently diving into full-stack, system design, and UI patterns  
+-   :coffee: Currently diving into full-stack, system design, and UI patterns
 
----
+</br>
+
 ### 🌱 What I'm Learning
 Here are some things I'm currently exploring or plan to dive into:
 - Cloudflare Workers & Edge Functions ☁️  
