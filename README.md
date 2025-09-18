@@ -1,8 +1,9 @@
 My name is Seven317(Tang). I'm a second-year student at ASIA University Computer Science and Information Engineering in Taiwan.
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-flame-omega-24.vercel.app/api?username=seven-317&theme=dracula&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-flame-omega-24.vercel.app/api?username=seven-317&show_icons=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://awesome-github-stats.azurewebsites.net/user-stats/seven-317?cardType=level&theme=dark&preferLogin=false">
+    <img align="right" width="50%" src="https://awesome-github-stats.azurewebsites.net/user-stats/seven-317?cardType=level&theme=dark&preferLogin=false">
+    
 </picture>
 
 -   :pencil2: TypeScript / JavaScript / React / Dart / Python / C++
