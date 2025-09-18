@@ -5,7 +5,7 @@ My name is Seven317(Tang). I'm a second-year student at ASIA University in Taiwa
     <img align="right" width="50%" src="https://github-readme-stats-flame-omega-24.vercel.app/api?username=seven-317&show_icons=true">
 </picture>
 
--   :pencil2: TypeScript / JavaScript / React / Python / C++
+-   :pencil2: TypeScript / JavaScript / React / Dart / Python / C++
 -   :art: UI/UX design with [Figma](https://www.figma.com/) & [Framer](https://www.framer.com/)  
 -   :rocket: Building side projects like [VALKI](https://valki.app) (Valorant Companion App)  
 -   :books: Learning full-stack dev with [Next.js](https://nextjs.org/) / [Flutter](https://flutter.dev/)  
