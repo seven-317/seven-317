@@ -27,15 +27,15 @@ Here are some things I'm currently exploring or plan to dive into:
 ---
 
  <!-- LANGUAGES BREAKDOWN START -->
- [ LANGUAGES BREAKDOWN ]
+```
+[ LANGUAGES BREAKDOWN ]
 
-JavaScript   --> 142,417 lines
-TypeScript   --> 113,884 lines
-JSX          --> 20,576 lines
-PHP          --> 5,248 lines
-Others       --> 14,994 lines
+JavaScript   --> 1,591,829 lines
+TypeScript   --> 162,519 lines
+Others       --> 223,666 lines
 
-[ TOTAL LINES OF CODE: 297,119 ]
+[ TOTAL LINES OF CODE: 1,978,014 ]
+```
  <!-- LANGUAGES BREAKDOWN END -->
 
 <div align="center">
