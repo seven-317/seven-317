@@ -49,3 +49,6 @@ Others       --> 222,248 lines
     <img alt="github-snake" src="https://raw.githubusercontent.com/seven-317/seven-317/gh-pages/github-snake.svg" />
   </picture>
 </div>
+<picture>
+    <img width="100%" src="wave.svg">
+</picture>
