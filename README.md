@@ -8,8 +8,8 @@ My name is Seven317 (Tang). I'm a second-year student at ASIA University Compute
 
 -   :pencil2: TypeScript / JavaScript / React / Dart / Python / C++
 -   :art: UI/UX design with [Figma](https://www.figma.com/) & [Framer](https://www.framer.com/)  
--   :rocket: Founder & developer of [VALKI](https://valki.app) (Valorant Companion App)  
--   :books: Learning full-stack dev with [Next.js](https://nextjs.org/) / [Flutter](https://flutter.dev/)  
+-   :rocket: Founder & developer of VALKI  [What is VALKI](https://github.com/Deebug-VALKI/VALKI)
+-   :books: Learning frontend development with [Next.js](https://nextjs.org/) & [Flutter](https://flutter.dev/)  
 -   :cloud: Exploring DevOps with [Docker](https://www.docker.com/) & [Cloudflare](https://www.cloudflare.com/)  
 -   :coffee: Currently diving into full-stack, system design, and UI patterns
 
