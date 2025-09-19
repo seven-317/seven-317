@@ -27,6 +27,16 @@ Here are some things I'm currently exploring or plan to dive into:
 ---
 
  <!-- LANGUAGES BREAKDOWN START -->
+ [ LANGUAGES BREAKDOWN ]
+
+JavaScript   --> 142,417 lines
+TypeScript   --> 113,884 lines
+JSX          --> 20,576 lines
+PHP          --> 5,248 lines
+Others       --> 14,994 lines
+
+[ TOTAL LINES OF CODE: 297,119 ]
+ <!-- LANGUAGES BREAKDOWN END -->
 
 <div align="center">
   <picture>
