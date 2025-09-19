@@ -25,6 +25,9 @@ Here are some things I'm currently exploring or plan to dive into:
 - Design Systems & Component Libraries 🎨  
 - Large Language Models (LLMs) & AI 🤖
 ---
+
+ <!-- LANGUAGES BREAKDOWN START -->
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seven-317/seven-317/gh-pages/github-snake-dark.svg" />
