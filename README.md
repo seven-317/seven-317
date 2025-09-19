@@ -42,7 +42,6 @@ Others       --> 222,248 lines
 [ TOTAL LINES OF CODE: 1,978,014 ]
 ```
  <!-- LANGUAGES BREAKDOWN END -->
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seven-317/seven-317/gh-pages/github-snake-dark.svg" />
