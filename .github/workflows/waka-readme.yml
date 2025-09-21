@@ -17,3 +17,8 @@ jobs:
           BLOCKS: "⬜🟨🟩"
           TIME_RANGE: last_30_days
           SHOW_TIME: true
+          LANG_COUNT: 10
+          SHOW_TITLE: true
+          IGNORED_LANGUAGES: Json Markdown YAML TOML
+          CODE_LANG: ruby
+          TIME_RANGE: all_time
