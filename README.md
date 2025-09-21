@@ -43,6 +43,8 @@ Others       --> 222,248 lines
 [ TOTAL LINES OF CODE: 2,178,936 ]
 ```
  <!-- LANGUAGES BREAKDOWN END -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seven-317/seven-317/gh-pages/github-snake-dark.svg" />
