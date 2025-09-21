@@ -31,16 +31,14 @@ Here are some things I'm currently exploring or plan to dive into:
 ### 👾 LANGUAGES BREAKDOWN
  <!-- LANGUAGES BREAKDOWN START -->
 ```
-[ LANGUAGES BREAKDOWN ]
-
 JavaScript   --> 1,591,829 lines
-JSON         --> 200,922 lines
+JSON         --> 201,083 lines
 TypeScript   --> 162,519 lines
 C++          --> 780 lines
 Python       --> 638 lines
 Others       --> 222,248 lines
 
-[ TOTAL LINES OF CODE: 2,178,936 ]
+[ TOTAL LINES OF CODE: 2,179,097 ]
 ```
  <!-- LANGUAGES BREAKDOWN END -->
 ### 👻 Coding time in last 30 days
