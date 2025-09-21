@@ -17,5 +17,5 @@ jobs:
           BLOCKS: "⬜🟨🟩"
           TIME_RANGE: last_30_days
           LANG_COUNT: 10
-          IGNORED_LANGUAGES: Json, Markdown, YAML, TOML, Unknown
+          IGNORED_LANGUAGES: JSON MARKDOWN YAML TOML
           CODE_LANG: ruby
