@@ -113,8 +113,6 @@ jobs:
           FORMATTED_TOTAL=$(format_number "$TOTAL_LINES")
 
           CODE_BLOCK="\`\`\`
-          [ LANGUAGES BREAKDOWN ]
-
           $FORMATTED_BREAKDOWN
           [ TOTAL LINES OF CODE: $FORMATTED_TOTAL ]
           \`\`\`"
