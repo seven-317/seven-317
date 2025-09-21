@@ -21,4 +21,3 @@ jobs:
           SHOW_TITLE: true
           IGNORED_LANGUAGES: Json Markdown YAML TOML
           CODE_LANG: ruby
-          TIME_RANGE: all_time
