@@ -28,7 +28,7 @@ Here are some things I'm currently exploring or plan to dive into:
 - Design Systems & Component Libraries 🎨  
 - Large Language Models (LLMs) & AI 🤖
 ---
-
+### 👾 LANGUAGES BREAKDOWN
  <!-- LANGUAGES BREAKDOWN START -->
 ```
 [ LANGUAGES BREAKDOWN ]
@@ -43,6 +43,7 @@ Others       --> 222,248 lines
 [ TOTAL LINES OF CODE: 2,178,936 ]
 ```
  <!-- LANGUAGES BREAKDOWN END -->
+### 👻 Coding time in last 30 days
 <!--START_SECTION:waka-->
 
 ```ruby
@@ -52,6 +53,7 @@ Python     0 hrs 0 mins    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ```
 
 <!--END_SECTION:waka-->
+### 🐍 My contributions graph
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seven-317/seven-317/gh-pages/github-snake-dark.svg" />
