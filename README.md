@@ -28,7 +28,7 @@ Here are some things I'm currently exploring or plan to dive into:
 - Design Systems & Component Libraries 🎨  
 - Large Language Models (LLMs) & AI 🤖
 ---
-### 👾 LANGUAGES BREAKDOWN
+### 👾 Lines of codes
  <!-- LANGUAGES BREAKDOWN START -->
 ```
 JavaScript   --> 1,591,829 lines
