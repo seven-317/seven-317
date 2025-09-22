@@ -60,7 +60,7 @@ Python       0 hrs 0 mins    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seven-317/seven-317/gh-pages/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seven-317/seven-317/gh-pages/github-snake.svg" />
-    <img alt="github-snake" width="100%" src="https://raw.githubusercontent.com/seven-317/seven-317/gh-pages/github-snake.svg" />
+    <img alt="github-snake" width="100%" src="https://raw.githubusercontent.com/seven-317/seven-317/gh-pages/github-snake-dark.svg" />
   </picture>
 </div>
 <picture>
