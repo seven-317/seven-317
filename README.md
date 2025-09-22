@@ -42,7 +42,7 @@ Others       --> 222,248 lines
 [ TOTAL LINES OF CODE: 1,978,014 ]
 ```
  <!-- LANGUAGES BREAKDOWN END -->
-### 👻 Coding time in last 30 days
+### 👻 Coding time in the last 30 days
 (just setup on 2025/9/21)
 <!--START_SECTION:waka-->
 
