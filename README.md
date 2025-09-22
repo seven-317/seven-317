@@ -6,7 +6,13 @@ My name is Seven317 (Tang). I'm a second-year student at ASIA University CSIE in
 -   :books: Learning frontend development with [Next.js](https://nextjs.org/) & [Flutter](https://flutter.dev/)  
 -   :cloud: Exploring DevOps with [Docker](https://www.docker.com/) & [Cloudflare](https://www.cloudflare.com/)  
 -   :coffee: Currently diving into full-stack, system design, and UI patterns
+  
+<picture>
+    <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seven-317&theme=github_dark">
+    <img align="right" width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seven-317&theme=github_dark">
+</picture>
 
+</br>
 </br>
     
 ### 🌱 What I'm Learning
