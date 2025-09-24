@@ -18,7 +18,7 @@ My name is Seven317 (Tang). I'm a second-year student at ASIA University CSIE in
 ### 🌱 What I'm Learning
 
 <picture>
-<img align="right" width="60%" src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=seven-317&theme=%7B%22backgroundColor%22%3A%22%230f172a%22%2C%22textColor%22%3A%22%23e2e8f0%22%2C%22accentColor%22%3A%22%230ea5e9%22%2C%22borderColor%22%3A%22%231e293b%22%2C%22waterColor%22%3A%22%230ea5e9%22%2C%22streakColor%22%3A%22%2306b6d4%22%7D">
+<img align="right" width="60%" src="https://git-hub-streak-card.vercel.app/api/card-with-avatar?username=seven-317&theme=%7B%22backgroundColor%22%3A%22%230f172a%22%2C%22textColor%22%3A%22%23e2e8f0%22%2C%22accentColor%22%3A%22%230ea5e9%22%2C%22borderColor%22%3A%22%231e293b%22%2C%22waterColor%22%3A%22%230ea5e9%22%2C%22streakColor%22%3A%22%2306b6d4%22%7D">
 </picture>
 
 Here are some things I'm currently exploring or plan to dive into:
