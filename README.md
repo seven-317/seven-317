@@ -47,7 +47,6 @@ Others       --> 231,555 lines
 ```
  <!-- LANGUAGES BREAKDOWN END -->
 ### 👻 Coding time in the last 30 days
-(just setup on 2025/9/21)
 <!--START_SECTION:waka-->
 
 ```ruby
