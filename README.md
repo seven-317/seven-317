@@ -1,4 +1,5 @@
-My name is Seven317 (Tang). I'm a second-year student at ASIA University CSIE in Taiwan.
+### My name is Seven317 (Tang). I'm a second-year student at ASIA University CSIE in Taiwan.
+#### ⭠ Professional Bug Developer
 
 -   :pencil2: TypeScript / JavaScript / React / Dart / Python / C++
 -   :art: UI/UX design with [Figma](https://www.figma.com/) & [Framer](https://www.framer.com/)  
