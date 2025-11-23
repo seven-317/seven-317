@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 21.6094770431519,
-  "n_files"            : 10690,
-  "n_lines"            : 2651410,
-  "files_per_second"   : 494.69036102323,
-  "lines_per_second"   : 122696.629571619,
+  "elapsed_seconds"    : 21.2168118953705,
+  "n_files"            : 10937,
+  "n_lines"            : 2663469,
+  "files_per_second"   : 515.487437694938,
+  "lines_per_second"   : 125535.778567239,
   "report_file"        : "../output/cloc-output.json"},
 "JavaScript" :{
   "nFiles": 6485,
@@ -18,20 +18,20 @@
   "comment": 123019,
   "code": 162519},
 "Dart" :{
-  "nFiles": 701,
-  "blank": 5305,
-  "comment": 2039,
-  "code": 42242},
+  "nFiles": 730,
+  "blank": 5731,
+  "comment": 2212,
+  "code": 44828},
 "C" :{
   "nFiles": 207,
   "blank": 5380,
   "comment": 9719,
   "code": 41075},
 "Java" :{
-  "nFiles": 570,
-  "blank": 6751,
-  "comment": 18155,
-  "code": 28902},
+  "nFiles": 781,
+  "blank": 9055,
+  "comment": 26244,
+  "code": 37225},
 "Vuejs Component" :{
   "nFiles": 123,
   "blank": 720,
@@ -47,11 +47,6 @@
   "blank": 4301,
   "comment": 8042,
   "code": 20385},
-"SQL" :{
-  "nFiles": 22,
-  "blank": 484,
-  "comment": 601,
-  "code": 14098},
 "m4" :{
   "nFiles": 11,
   "blank": 1113,
@@ -62,36 +57,41 @@
   "blank": 1022,
   "comment": 387,
   "code": 7451},
+"SQL" :{
+  "nFiles": 17,
+  "blank": 494,
+  "comment": 606,
+  "code": 3125},
 "Velocity Template Language" :{
   "nFiles": 13,
   "blank": 152,
   "comment": 5,
-  "code": 3078},
+  "code": 3080},
 "Python" :{
-  "nFiles": 46,
-  "blank": 523,
-  "comment": 195,
-  "code": 2615},
+  "nFiles": 49,
+  "blank": 624,
+  "comment": 213,
+  "code": 3021},
 "Kotlin" :{
-  "nFiles": 55,
-  "blank": 387,
-  "comment": 342,
-  "code": 2370},
+  "nFiles": 62,
+  "blank": 456,
+  "comment": 404,
+  "code": 2732},
 "CMake" :{
   "nFiles": 26,
   "blank": 318,
   "comment": 89,
   "code": 1479},
+"Maven" :{
+  "nFiles": 14,
+  "blank": 146,
+  "comment": 87,
+  "code": 1199},
 "diff" :{
   "nFiles": 3,
   "blank": 103,
   "comment": 300,
   "code": 1175},
-"Maven" :{
-  "nFiles": 12,
-  "blank": 139,
-  "comment": 78,
-  "code": 1119},
 "Perl" :{
   "nFiles": 2,
   "blank": 112,
@@ -208,7 +208,7 @@
   "comment": 2,
   "code": 4},
 "SUM": {
-  "blank": 162512,
-  "comment": 499396,
-  "code": 1989502,
-  "nFiles": 10690} }
+  "blank": 165429,
+  "comment": 507752,
+  "code": 1990288,
+  "nFiles": 10937} }
