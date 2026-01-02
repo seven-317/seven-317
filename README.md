@@ -45,16 +45,7 @@ Others       --> 231,935 lines
 [ TOTAL LINES OF CODE: 1,994,365 ]
 ```
  <!-- LANGUAGES BREAKDOWN END -->
-### 👻 Coding time in the last 30 days
-<!--START_SECTION:waka-->
 
-```ruby
-Typescript   0 hrs 13 mins   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜   75.15 %
-Python       0 hrs 4 mins    🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   24.45 %
-CSV          0 hrs 0 mins    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.40 %
-```
-
-<!--END_SECTION:waka-->
 ### 🐍 My contributions graph
 <div align="center">
   <picture>
