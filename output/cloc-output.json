@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 22.9904270172119,
-  "n_files"            : 11646,
-  "n_lines"            : 2820425,
-  "files_per_second"   : 506.558664233646,
-  "lines_per_second"   : 122678.234636028,
+  "elapsed_seconds"    : 22.9803199768066,
+  "n_files"            : 11654,
+  "n_lines"            : 2821272,
+  "files_per_second"   : 507.129579212215,
+  "lines_per_second"   : 122769.047726377,
   "report_file"        : "../output/cloc-output.json"},
 "JavaScript" :{
   "nFiles": 6593,
@@ -13,10 +13,10 @@
   "comment": 328780,
   "code": 1598514},
 "TypeScript" :{
-  "nFiles": 2347,
-  "blank": 27798,
-  "comment": 130740,
-  "code": 256184},
+  "nFiles": 2354,
+  "blank": 27900,
+  "comment": 130778,
+  "code": 256870},
 "Vuejs Component" :{
   "nFiles": 243,
   "blank": 1609,
@@ -63,10 +63,10 @@
   "comment": 659,
   "code": 7098},
 "SQL" :{
-  "nFiles": 20,
-  "blank": 534,
-  "comment": 654,
-  "code": 3404},
+  "nFiles": 21,
+  "blank": 537,
+  "comment": 661,
+  "code": 3415},
 "Velocity Template Language" :{
   "nFiles": 13,
   "blank": 152,
@@ -208,7 +208,7 @@
   "comment": 2,
   "code": 4},
 "SUM": {
-  "blank": 180425,
-  "comment": 519234,
-  "code": 2120766,
-  "nFiles": 11646} }
+  "blank": 180530,
+  "comment": 519279,
+  "code": 2121463,
+  "nFiles": 11654} }
