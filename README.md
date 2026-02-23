@@ -29,6 +29,7 @@ Here are some things I'm currently exploring or plan to dive into:
 - Cybersecurity Basics 🔐  
 - Design Systems & Component Libraries 🎨  
 - Large Language Models (LLMs) & AI 🤖
+- Web3 & Smart Contract Development 🚀
 
 ---
 ### 👾 Lines of codes
