@@ -1,22 +1,22 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 23.2897930145264,
-  "n_files"            : 11678,
-  "n_lines"            : 2824178,
-  "files_per_second"   : 501.421373419513,
-  "lines_per_second"   : 121262.477439731,
+  "elapsed_seconds"    : 39.4651169776917,
+  "n_files"            : 14234,
+  "n_lines"            : 3892734,
+  "files_per_second"   : 360.672945883982,
+  "lines_per_second"   : 98637.3359085806,
   "report_file"        : "../output/cloc-output.json"},
 "JavaScript" :{
-  "nFiles": 6595,
-  "blank": 115529,
-  "comment": 328784,
-  "code": 1598975},
+  "nFiles": 8299,
+  "blank": 156759,
+  "comment": 427971,
+  "code": 2238304},
 "TypeScript" :{
-  "nFiles": 2376,
-  "blank": 28245,
-  "comment": 130810,
-  "code": 258920},
+  "nFiles": 3131,
+  "blank": 38295,
+  "comment": 264922,
+  "code": 379194},
 "Vuejs Component" :{
   "nFiles": 243,
   "blank": 1609,
@@ -37,36 +37,41 @@
   "blank": 9055,
   "comment": 26244,
   "code": 37225},
-"Bourne Shell" :{
-  "nFiles": 60,
-  "blank": 4428,
-  "comment": 4764,
-  "code": 25614},
 "C/C++ Header" :{
-  "nFiles": 119,
-  "blank": 4301,
-  "comment": 8042,
-  "code": 20385},
+  "nFiles": 152,
+  "blank": 5928,
+  "comment": 8989,
+  "code": 29828},
+"Bourne Shell" :{
+  "nFiles": 74,
+  "blank": 4456,
+  "comment": 4764,
+  "code": 25810},
 "m4" :{
   "nFiles": 11,
   "blank": 1113,
   "comment": 127,
   "code": 10261},
+"C++" :{
+  "nFiles": 25,
+  "blank": 1692,
+  "comment": 1281,
+  "code": 8631},
+"Python" :{
+  "nFiles": 87,
+  "blank": 1691,
+  "comment": 660,
+  "code": 7816},
 "LESS" :{
   "nFiles": 153,
   "blank": 1022,
   "comment": 387,
   "code": 7451},
-"Python" :{
-  "nFiles": 83,
-  "blank": 1691,
-  "comment": 659,
-  "code": 7098},
 "SQL" :{
-  "nFiles": 21,
-  "blank": 537,
-  "comment": 661,
-  "code": 3415},
+  "nFiles": 20,
+  "blank": 522,
+  "comment": 644,
+  "code": 3316},
 "Velocity Template Language" :{
   "nFiles": 13,
   "blank": 152,
@@ -92,6 +97,16 @@
   "blank": 103,
   "comment": 300,
   "code": 1175},
+"PowerShell" :{
+  "nFiles": 47,
+  "blank": 47,
+  "comment": 235,
+  "code": 1034},
+"DOS Batch" :{
+  "nFiles": 56,
+  "blank": 173,
+  "comment": 8,
+  "code": 950},
 "Perl" :{
   "nFiles": 2,
   "blank": 112,
@@ -102,21 +117,6 @@
   "blank": 181,
   "comment": 42,
   "code": 847},
-"PowerShell" :{
-  "nFiles": 36,
-  "blank": 36,
-  "comment": 180,
-  "code": 792},
-"DOS Batch" :{
-  "nFiles": 45,
-  "blank": 151,
-  "comment": 8,
-  "code": 785},
-"C++" :{
-  "nFiles": 3,
-  "blank": 183,
-  "comment": 67,
-  "code": 780},
 "Assembly" :{
   "nFiles": 2,
   "blank": 26,
@@ -132,6 +132,11 @@
   "blank": 83,
   "comment": 0,
   "code": 451},
+"Zig" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 6,
+  "code": 357},
 "Bourne Again Shell" :{
   "nFiles": 5,
   "blank": 54,
@@ -143,15 +148,20 @@
   "comment": 0,
   "code": 209},
 "Visual Studio Solution" :{
-  "nFiles": 1,
+  "nFiles": 2,
   "blank": 1,
-  "comment": 1,
-  "code": 166},
+  "comment": 2,
+  "code": 184},
 "CoffeeScript" :{
   "nFiles": 11,
   "blank": 37,
   "comment": 11,
   "code": 159},
+"EJS" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 0,
+  "code": 64},
 "Protocol Buffers" :{
   "nFiles": 4,
   "blank": 6,
@@ -208,7 +218,7 @@
   "comment": 2,
   "code": 4},
 "SUM": {
-  "blank": 180889,
-  "comment": 519315,
-  "code": 2123974,
-  "nFiles": 11678} }
+  "blank": 235381,
+  "comment": 754821,
+  "code": 2902532,
+  "nFiles": 14234} }
