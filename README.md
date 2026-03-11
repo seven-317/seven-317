@@ -38,12 +38,12 @@ Here are some things I'm currently exploring or plan to dive into:
 [ LANGUAGES BREAKDOWN ]
 
 JavaScript   --> 2,238,095 lines
-TypeScript   --> 382,243 lines
+TypeScript   --> 382,430 lines
 C++          --> 8,631 lines
 Python       --> 7,816 lines
-Others       --> 268,916 lines
+Others       --> 268,940 lines
 
-[ TOTAL LINES OF CODE: 2,905,701 ]
+[ TOTAL LINES OF CODE: 2,905,912 ]
 ```
  <!-- LANGUAGES BREAKDOWN END -->
 
