@@ -1,35 +1,56 @@
-### My name is Seven317 (Tang). I'm a second-year student at ASIA University CSIE in Taiwan.
-#### ⭠ Professional Bug Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Seven317&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Professional%20Bug%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
--   :pencil2: TypeScript / JavaScript / React / Dart / Python / C++
--   :art: UI/UX design with [Figma](https://www.figma.com/) & [Framer](https://www.framer.com/)  
--   :rocket: Founder & developer of VALKI  [What is VALKI](https://github.com/Deebug-VALKI/VALKI)
--   :books: Learning frontend development with [Next.js](https://nextjs.org/) & [Flutter](https://flutter.dev/)  
--   :cloud: Exploring DevOps with [Docker](https://www.docker.com/) & [Cloudflare](https://www.cloudflare.com/)  
--   :coffee: Currently diving into full-stack, system design, and UI patterns
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0EA5E9&width=500&lines=Second-year+CSIE+%40+ASIA+University;Founder+%26+Developer+of+VALKI;Full-stack+%7C+Mobile+%7C+DevOps;Always+building%2C+always+learning." alt="Typing SVG" />
 
-</br>
-</br>
-    
-### 🌱 What I'm Learning
+<br>
 
-<!-- <picture>
-<img align="right" width="60%" src="https://git-hub-streak-card.vercel.app/api/card-with-avatar?username=seven-317&theme=%7B%22backgroundColor%22%3A%22%230f172a%22%2C%22textColor%22%3A%22%23e2e8f0%22%2C%22accentColor%22%3A%22%230ea5e9%22%2C%22borderColor%22%3A%22%231e293b%22%2C%22waterColor%22%3A%22%230ea5e9%22%2C%22streakColor%22%3A%22%2306b6d4%22%7D">
-</picture> -->
-<picture>
-    <img align="right" width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seven-317&theme=github_dark">
-</picture>
+## 🚀 About Me
 
-Here are some things I'm currently exploring or plan to dive into:
+<img align="right" width="42%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seven-317&theme=github_dark"/>
 
-- Cloudflare Workers & Edge Functions ☁️  
-- Data Visualization & Storytelling 📊  
-- Human-Computer Interaction (HCI) 🧑‍💻  
-- Game Development & Design 🎮  
-- Cybersecurity Basics 🔐  
-- Design Systems & Component Libraries 🎨  
-- Large Language Models (LLMs) & AI 🤖
-- Web3 & Smart Contract Development 🚀
+I'm a passionate developer who loves building things from scratch. I work across the full stack — from crafting pixel-perfect UIs to designing backend systems and shipping mobile apps.
+
+I'm the founder and lead developer of [VALKI](https://github.com/Deebug-VALKI/VALKI), a project I've been pouring a lot of energy into. Outside of that, I'm constantly picking up new tools and exploring areas that push me out of my comfort zone.
+
+When I'm not writing code, I'm probably thinking about system design, tinkering with UI patterns, or figuring out how to make something look just right in [Figma](https://www.figma.com/) or [Framer](https://www.framer.com/).
+
+<br clear="right"/>
+
+
+## 🛠️ Tech Stack
+
+<img align="right" width="44%" src="https://streak-stats.demolab.com?user=seven-317&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+
+**Languages**
+`TypeScript` `JavaScript` `Python` `C++` `Dart`
+
+**Frontend**
+[Next.js](https://nextjs.org/) · [React](https://react.dev/) · [Flutter](https://flutter.dev/)
+
+**Backend**
+[Node.js](https://nodejs.org/) · [Java](https://www.java.com/)
+
+**DevOps & Tools**
+[Docker](https://www.docker.com/) · [Cloudflare](https://www.cloudflare.com/) · [Figma](https://www.figma.com/) · [Framer](https://www.framer.com/)
+
+<br clear="right"/>
+
+
+## 🌱 What I'm Learning
+
+These are the areas I'm actively exploring or planning to dive into next:
+
+- 🍎 Currently diving into [Swift](https://www.swift.org/) for iOS app development
+- ☁️ Cloudflare Workers & Edge Functions
+- 📊 Data Visualization & Storytelling
+- 🧑‍💻 Human-Computer Interaction (HCI)
+- 🎮 Game Development & Design
+- 🔐 Cybersecurity Basics
+- 🎨 Design Systems & Component Libraries
+- 🤖 Large Language Models (LLMs) & AI
+- 🚀 Web3 & Smart Contract Development
+
+<br clear="right"/>
 
 ---
 ### 👾 Lines of codes
