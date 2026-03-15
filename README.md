@@ -44,7 +44,7 @@ These are the areas I'm actively exploring or planning to dive into next:
 - ☁️ Cloudflare Workers & Edge Functions
 - 📊 Data Visualization & Storytelling
 - 🧑‍💻 Human-Computer Interaction (HCI)
-- 🎮 Game Development & Design
+- 🎮 Game Development & Design with [Godot Engine](https://godotengine.org/)
 - 🔐 Cybersecurity Basics
 - 🎨 Design Systems & Component Libraries
 - 🤖 Large Language Models (LLMs) & AI
