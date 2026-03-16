@@ -38,6 +38,8 @@ When I'm not writing code, I'm probably thinking about system design, tinkering 
 
 ## 🌱 What I'm Learning
 
+<img align="right" width="44%" src="https://spotify-recently-played-readme.vercel.app/api?user=31jwb7pg2cyujxhuxz4gmr7ct24e"/>
+
 These are the areas I'm actively exploring or planning to dive into next:
 
 - 🍎 Currently diving into [Swift](https://www.swift.org/) for iOS app development
