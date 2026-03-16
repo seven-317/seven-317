@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Seven317&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Professional%20Bug%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
+<img align="right" src="https://spotify.beebombshell.com/now-playing?uid=3379c07546)](https://spotify.beebombshell.com/now-playing?uid=3379c07546" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0EA5E9&width=500&lines=Second-year+CSIE+%40+ASIA+University;Founder+%26+Developer+of+VALKI;Full-stack+%7C+Mobile+%7C+DevOps;Always+building%2C+always+learning." alt="Typing SVG" />
 
 <br>
