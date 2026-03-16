@@ -2,9 +2,9 @@
 
 <img align="right" src="https://spotify.beebombshell.com/now-playing?uid=3379c07546" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0EA5E9&width=500&lines=Second-year+CSIE+%40+ASIA+University;Founder+%26+Developer+of+VALKI;Full-stack+%7C+Mobile+%7C+DevOps;Always+building%2C+always+learning." alt="Typing SVG" />
+<img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0EA5E9&width=500&lines=Second-year+CSIE+%40+ASIA+University;Founder+%26+Developer+of+VALKI;Full-stack+%7C+Mobile+%7C+DevOps;Always+building%2C+always+learning." alt="Typing SVG" />
 
-<br>
+<br><br>
 
 ## 🚀 About Me
 
