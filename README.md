@@ -1,15 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Seven317&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Professional%20Bug%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-<img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0EA5E9&width=460&lines=Second-year+CSIE+%40+ASIA+University;Founder+%26+Developer+of+VALKI;Full-stack+%7C+Mobile+%7C+DevOps;Always+building%2C+always+learning." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0EA5E9&width=460&lines=Second-year+CSIE+%40+ASIA+University;Founder+%26+Developer+of+VALKI;Full-stack+%7C+Mobile+%7C+DevOps;Always+building%2C+always+learning." alt="Typing SVG"/>
 
-<img align="right" src="https://spotify.beebombshell.com/now-playing?uid=3379c07546"/>
-
-<br clear="both"/>
 <br/>
 
 ## 🚀 About Me
 
-<img align="left" width="42%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seven-317&theme=github_dark"/>
+<img align="right" width="42%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seven-317&theme=github_dark"/>
 
 I'm a passionate developer who loves building things from scratch. I work across the full stack — from crafting pixel-perfect UIs to designing backend systems and shipping mobile apps.
 
@@ -17,7 +14,7 @@ I'm the founder and lead developer of [VALKI](https://github.com/Deebug-VALKI/VA
 
 When I'm not writing code, I'm probably thinking about system design, tinkering with UI patterns, or figuring out how to make something look just right in [Figma](https://www.figma.com/) or [Framer](https://www.framer.com/).
 
-<br clear="left"/>
+<br clear="right"/>
 
 ## 🛠️ Tech Stack
 
@@ -39,7 +36,7 @@ When I'm not writing code, I'm probably thinking about system design, tinkering 
 
 ## 🌱 What I'm Learning
 
-<img align="right" width="40%" src="https://spotify-recently-played-readme.vercel.app/api?user=31jwb7pg2cyujxhuxz4gmr7ct24e"/>
+<img align="right" src="https://spotify.beebombshell.com/now-playing?uid=3379c07546"/>
 
 These are the areas I'm actively exploring or planning to dive into next:
 
@@ -53,7 +50,7 @@ These are the areas I'm actively exploring or planning to dive into next:
 - 🤖 Large Language Models (LLMs) & AI
 - 🚀 Web3 & Smart Contract Development
 
-<br clear="left"/>
+<br clear="right"/>
 
 ---
 ### 👾 Lines of codes
