@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 39.357470035553,
-  "n_files"            : 14258,
-  "n_lines"            : 3897740,
-  "files_per_second"   : 362.269220738026,
-  "lines_per_second"   : 99034.3128376655,
+  "elapsed_seconds"    : 39.3344550132751,
+  "n_files"            : 13494,
+  "n_lines"            : 3841765,
+  "files_per_second"   : 343.058013526458,
+  "lines_per_second"   : 97669.2062646712,
   "report_file"        : "../output/cloc-output.json"},
 "JavaScript" :{
   "nFiles": 8298,
@@ -22,26 +22,21 @@
   "blank": 1609,
   "comment": 5000,
   "code": 52239},
-"Dart" :{
-  "nFiles": 730,
-  "blank": 5731,
-  "comment": 2212,
-  "code": 44828},
 "C" :{
-  "nFiles": 207,
-  "blank": 5380,
-  "comment": 9719,
-  "code": 41075},
+  "nFiles": 206,
+  "blank": 5249,
+  "comment": 9657,
+  "code": 40465},
 "Java" :{
   "nFiles": 781,
   "blank": 9055,
   "comment": 26244,
   "code": 37225},
 "C/C++ Header" :{
-  "nFiles": 152,
+  "nFiles": 151,
   "blank": 5928,
   "comment": 8989,
-  "code": 29828},
+  "code": 29827},
 "Bourne Shell" :{
   "nFiles": 74,
   "blank": 4456,
@@ -53,10 +48,10 @@
   "comment": 127,
   "code": 10261},
 "C++" :{
-  "nFiles": 25,
-  "blank": 1692,
-  "comment": 1281,
-  "code": 8631},
+  "nFiles": 24,
+  "blank": 1563,
+  "comment": 1217,
+  "code": 8033},
 "Python" :{
   "nFiles": 87,
   "blank": 1691,
@@ -78,15 +73,10 @@
   "comment": 5,
   "code": 3080},
 "Kotlin" :{
-  "nFiles": 62,
-  "blank": 456,
-  "comment": 404,
-  "code": 2732},
-"CMake" :{
-  "nFiles": 26,
-  "blank": 318,
-  "comment": 89,
-  "code": 1479},
+  "nFiles": 60,
+  "blank": 450,
+  "comment": 402,
+  "code": 2704},
 "Maven" :{
   "nFiles": 14,
   "blank": 146,
@@ -122,36 +112,41 @@
   "blank": 26,
   "comment": 357,
   "code": 723},
-"Gradle" :{
+"CMake" :{
   "nFiles": 6,
-  "blank": 117,
-  "comment": 29,
-  "code": 589},
+  "blank": 94,
+  "comment": 25,
+  "code": 655},
 "Windows Module Definition" :{
   "nFiles": 5,
   "blank": 83,
   "comment": 0,
   "code": 451},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 87,
+  "comment": 22,
+  "code": 396},
 "Zig" :{
   "nFiles": 1,
   "blank": 5,
   "comment": 6,
   "code": 357},
-"Bourne Again Shell" :{
-  "nFiles": 5,
-  "blank": 54,
-  "comment": 59,
-  "code": 295},
 "INI" :{
-  "nFiles": 15,
-  "blank": 49,
+  "nFiles": 14,
+  "blank": 46,
   "comment": 0,
-  "code": 209},
+  "code": 199},
 "Visual Studio Solution" :{
   "nFiles": 2,
   "blank": 1,
   "comment": 2,
   "code": 184},
+"Bourne Again Shell" :{
+  "nFiles": 4,
+  "blank": 35,
+  "comment": 39,
+  "code": 174},
 "CoffeeScript" :{
   "nFiles": 11,
   "blank": 37,
@@ -182,21 +177,11 @@
   "blank": 1,
   "comment": 0,
   "code": 19},
-"Swift" :{
-  "nFiles": 2,
-  "blank": 4,
-  "comment": 2,
-  "code": 19},
 "Ruby" :{
   "nFiles": 1,
   "blank": 4,
   "comment": 1,
   "code": 18},
-"ProGuard" :{
-  "nFiles": 1,
-  "blank": 5,
-  "comment": 10,
-  "code": 12},
 "Pug" :{
   "nFiles": 4,
   "blank": 1,
@@ -212,13 +197,8 @@
   "blank": 0,
   "comment": 0,
   "code": 6},
-"Lua" :{
-  "nFiles": 1,
-  "blank": 0,
-  "comment": 2,
-  "code": 4},
 "SUM": {
-  "blank": 236065,
-  "comment": 755460,
-  "code": 2906215,
-  "nFiles": 14258} }
+  "blank": 229783,
+  "comment": 753015,
+  "code": 2858967,
+  "nFiles": 13494} }
