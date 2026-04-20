@@ -62,7 +62,8 @@ JavaScript   --> 2,238,100 lines
 TypeScript   --> 763,713 lines
 Python       --> 8,880 lines
 C++          --> 8,631 lines
-Others       --> 272,349 lines
+Swift        --> 3,286 lines
+Others       --> 269,063 lines
 
 [ TOTAL LINES OF CODE: 3,291,673 ]
 ```
