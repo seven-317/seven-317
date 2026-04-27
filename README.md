@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Seven317&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Professional%20Bug%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0EA5E9&width=460&lines=Second-year+CSIE;Founder+%26+Developer+of+VALKI;Full-stack+%7C+Mobile+%7C+DevOps;Always+building%2C+always+learning." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0EA5E9&width=460&lines=Second-year+CSIE;Co-founder+%26+CTO+of+VALKI;Full-stack+%7C+Mobile+%7C+DevOps;Always+building%2C+always+learning." alt="Typing SVG"/>
 
 <br/>
 
