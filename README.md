@@ -63,10 +63,10 @@ TypeScript   --> 763,869 lines
 Java         --> 37,225 lines
 C++          --> 8,631 lines
 Python       --> 7,816 lines
-Swift        --> 4,471 lines
+Swift        --> 4,486 lines
 Others       --> 231,838 lines
 
-[ TOTAL LINES OF CODE: 3,291,950 ]
+[ TOTAL LINES OF CODE: 3,291,965 ]
 ```
  <!-- LANGUAGES BREAKDOWN END -->
 
