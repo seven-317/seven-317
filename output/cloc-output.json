@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 45.1609799861908,
-  "n_files"            : 16238,
-  "n_lines"            : 4407893,
-  "files_per_second"   : 359.558185074044,
-  "lines_per_second"   : 97604.0157088671,
+  "elapsed_seconds"    : 44.729434967041,
+  "n_files"            : 16241,
+  "n_lines"            : 4407938,
+  "files_per_second"   : 363.094235640741,
+  "lines_per_second"   : 98546.6953304463,
   "report_file"        : "../output/cloc-output.json"},
 "JavaScript" :{
   "nFiles": 8301,
@@ -13,10 +13,10 @@
   "comment": 427998,
   "code": 2238109},
 "TypeScript" :{
-  "nFiles": 5098,
-  "blank": 74091,
-  "comment": 350076,
-  "code": 767748},
+  "nFiles": 5101,
+  "blank": 74115,
+  "comment": 349932,
+  "code": 767913},
 "Vuejs Component" :{
   "nFiles": 243,
   "blank": 1609,
@@ -218,7 +218,7 @@
   "comment": 2,
   "code": 4},
 "SUM": {
-  "blank": 271806,
-  "comment": 840234,
-  "code": 3295853,
-  "nFiles": 16238} }
+  "blank": 271830,
+  "comment": 840090,
+  "code": 3296018,
+  "nFiles": 16241} }
