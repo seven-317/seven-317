@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 41.7597270011902,
-  "n_files"            : 16317,
-  "n_lines"            : 4418251,
-  "files_per_second"   : 390.735312985522,
-  "lines_per_second"   : 105801.721354023,
+  "elapsed_seconds"    : 44.95481300354,
+  "n_files"            : 16544,
+  "n_lines"            : 4439216,
+  "files_per_second"   : 368.013987705771,
+  "lines_per_second"   : 98748.403194346,
   "report_file"        : "../output/cloc-output.json"},
 "JavaScript" :{
   "nFiles": 8304,
@@ -13,20 +13,20 @@
   "comment": 428001,
   "code": 2238539},
 "TypeScript" :{
-  "nFiles": 5168,
-  "blank": 74892,
-  "comment": 349999,
-  "code": 775748},
+  "nFiles": 5179,
+  "blank": 74979,
+  "comment": 350064,
+  "code": 777130},
+"Dart" :{
+  "nFiles": 931,
+  "blank": 7634,
+  "comment": 2821,
+  "code": 60431},
 "Vuejs Component" :{
   "nFiles": 243,
   "blank": 1609,
   "comment": 5000,
   "code": 52239},
-"Dart" :{
-  "nFiles": 730,
-  "blank": 5731,
-  "comment": 2212,
-  "code": 44828},
 "C" :{
   "nFiles": 207,
   "blank": 5380,
@@ -38,10 +38,10 @@
   "comment": 26244,
   "code": 37225},
 "C/C++ Header" :{
-  "nFiles": 152,
-  "blank": 5928,
-  "comment": 8989,
-  "code": 29828},
+  "nFiles": 157,
+  "blank": 5970,
+  "comment": 9042,
+  "code": 29918},
 "Bourne Shell" :{
   "nFiles": 75,
   "blank": 4480,
@@ -53,10 +53,10 @@
   "comment": 127,
   "code": 10261},
 "C++" :{
-  "nFiles": 25,
-  "blank": 1692,
-  "comment": 1281,
-  "code": 8631},
+  "nFiles": 30,
+  "blank": 1783,
+  "comment": 1322,
+  "code": 9004},
 "Python" :{
   "nFiles": 87,
   "blank": 1691,
@@ -69,14 +69,14 @@
   "code": 7451},
 "SQL" :{
   "nFiles": 29,
-  "blank": 732,
-  "comment": 818,
-  "code": 4660},
+  "blank": 734,
+  "comment": 829,
+  "code": 4669},
 "Swift" :{
   "nFiles": 33,
-  "blank": 471,
-  "comment": 78,
-  "code": 4493},
+  "blank": 489,
+  "comment": 80,
+  "code": 4667},
 "Velocity Template Language" :{
   "nFiles": 13,
   "blank": 152,
@@ -88,10 +88,10 @@
   "comment": 404,
   "code": 2732},
 "CMake" :{
-  "nFiles": 26,
-  "blank": 318,
-  "comment": 89,
-  "code": 1479},
+  "nFiles": 30,
+  "blank": 359,
+  "comment": 144,
+  "code": 1672},
 "Maven" :{
   "nFiles": 14,
   "blank": 146,
@@ -162,6 +162,11 @@
   "blank": 37,
   "comment": 11,
   "code": 159},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 29,
+  "code": 69},
 "EJS" :{
   "nFiles": 1,
   "blank": 25,
@@ -218,7 +223,7 @@
   "comment": 2,
   "code": 4},
 "SUM": {
-  "blank": 272779,
-  "comment": 840191,
-  "code": 3305281,
-  "nFiles": 16317} }
+  "blank": 274986,
+  "comment": 841056,
+  "code": 3323174,
+  "nFiles": 16544} }
