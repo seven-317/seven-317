@@ -1,47 +1,47 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 44.95481300354,
-  "n_files"            : 16544,
-  "n_lines"            : 4439216,
-  "files_per_second"   : 368.013987705771,
-  "lines_per_second"   : 98748.403194346,
+  "elapsed_seconds"    : 44.3638088703156,
+  "n_files"            : 16585,
+  "n_lines"            : 4425648,
+  "files_per_second"   : 373.840759446091,
+  "lines_per_second"   : 99758.071110104,
   "report_file"        : "../output/cloc-output.json"},
 "JavaScript" :{
-  "nFiles": 8304,
-  "blank": 156859,
-  "comment": 428001,
-  "code": 2238539},
+  "nFiles": 8214,
+  "blank": 156383,
+  "comment": 427341,
+  "code": 2233332},
 "TypeScript" :{
-  "nFiles": 5179,
-  "blank": 74979,
-  "comment": 350064,
-  "code": 777130},
+  "nFiles": 5182,
+  "blank": 75027,
+  "comment": 350086,
+  "code": 777827},
 "Dart" :{
   "nFiles": 931,
   "blank": 7634,
   "comment": 2821,
   "code": 60431},
-"Vuejs Component" :{
-  "nFiles": 243,
-  "blank": 1609,
-  "comment": 5000,
-  "code": 52239},
+"Java" :{
+  "nFiles": 932,
+  "blank": 10489,
+  "comment": 31089,
+  "code": 41988},
 "C" :{
   "nFiles": 207,
   "blank": 5380,
   "comment": 9719,
   "code": 41075},
-"Java" :{
-  "nFiles": 781,
-  "blank": 9055,
-  "comment": 26244,
-  "code": 37225},
 "C/C++ Header" :{
   "nFiles": 157,
   "blank": 5970,
   "comment": 9042,
   "code": 29918},
+"Vuejs Component" :{
+  "nFiles": 123,
+  "blank": 907,
+  "comment": 2534,
+  "code": 26890},
 "Bourne Shell" :{
   "nFiles": 75,
   "blank": 4480,
@@ -57,6 +57,11 @@
   "blank": 1783,
   "comment": 1322,
   "code": 9004},
+"Kotlin" :{
+  "nFiles": 152,
+  "blank": 1580,
+  "comment": 1627,
+  "code": 8829},
 "Python" :{
   "nFiles": 87,
   "blank": 1691,
@@ -68,10 +73,10 @@
   "comment": 387,
   "code": 7451},
 "SQL" :{
-  "nFiles": 29,
-  "blank": 734,
-  "comment": 829,
-  "code": 4669},
+  "nFiles": 33,
+  "blank": 754,
+  "comment": 869,
+  "code": 4937},
 "Swift" :{
   "nFiles": 33,
   "blank": 489,
@@ -79,24 +84,19 @@
   "code": 4667},
 "Velocity Template Language" :{
   "nFiles": 13,
-  "blank": 152,
+  "blank": 174,
   "comment": 5,
-  "code": 3080},
-"Kotlin" :{
-  "nFiles": 62,
-  "blank": 456,
-  "comment": 404,
-  "code": 2732},
+  "code": 3442},
 "CMake" :{
   "nFiles": 30,
   "blank": 359,
   "comment": 144,
   "code": 1672},
 "Maven" :{
-  "nFiles": 14,
-  "blank": 146,
-  "comment": 87,
-  "code": 1199},
+  "nFiles": 17,
+  "blank": 181,
+  "comment": 99,
+  "code": 1479},
 "diff" :{
   "nFiles": 3,
   "blank": 103,
@@ -223,7 +223,7 @@
   "comment": 2,
   "code": 4},
 "SUM": {
-  "blank": 274986,
-  "comment": 841056,
-  "code": 3323174,
-  "nFiles": 16544} }
+  "blank": 276491,
+  "comment": 844072,
+  "code": 3305085,
+  "nFiles": 16585} }
