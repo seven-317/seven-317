@@ -1,32 +1,32 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 42.7732129096985,
-  "n_files"            : 16634,
-  "n_lines"            : 4459723,
-  "files_per_second"   : 388.888251979509,
-  "lines_per_second"   : 104264.391113551,
+  "elapsed_seconds"    : 45.0330278873444,
+  "n_files"            : 16663,
+  "n_lines"            : 4463070,
+  "files_per_second"   : 370.017313552278,
+  "lines_per_second"   : 99106.5937463703,
   "report_file"        : "../output/cloc-output.json"},
 "JavaScript" :{
-  "nFiles": 8214,
-  "blank": 156383,
-  "comment": 427341,
-  "code": 2233332},
+  "nFiles": 8217,
+  "blank": 156398,
+  "comment": 427358,
+  "code": 2233437},
 "TypeScript" :{
-  "nFiles": 5230,
-  "blank": 75272,
-  "comment": 371646,
-  "code": 790061},
+  "nFiles": 5233,
+  "blank": 75303,
+  "comment": 371675,
+  "code": 790067},
 "Dart" :{
-  "nFiles": 931,
-  "blank": 7634,
-  "comment": 2821,
-  "code": 60431},
+  "nFiles": 941,
+  "blank": 7700,
+  "comment": 2845,
+  "code": 60904},
 "Java" :{
-  "nFiles": 932,
-  "blank": 10489,
-  "comment": 31089,
-  "code": 41988},
+  "nFiles": 939,
+  "blank": 10572,
+  "comment": 31369,
+  "code": 42322},
 "C" :{
   "nFiles": 207,
   "blank": 5380,
@@ -38,10 +38,10 @@
   "comment": 9042,
   "code": 29918},
 "Vuejs Component" :{
-  "nFiles": 123,
-  "blank": 907,
-  "comment": 2534,
-  "code": 26890},
+  "nFiles": 126,
+  "blank": 925,
+  "comment": 2606,
+  "code": 27787},
 "Bourne Shell" :{
   "nFiles": 75,
   "blank": 4480,
@@ -52,16 +52,16 @@
   "blank": 1113,
   "comment": 127,
   "code": 10261},
+"Kotlin" :{
+  "nFiles": 154,
+  "blank": 1607,
+  "comment": 1651,
+  "code": 9034},
 "C++" :{
   "nFiles": 30,
   "blank": 1783,
   "comment": 1322,
   "code": 9004},
-"Kotlin" :{
-  "nFiles": 152,
-  "blank": 1580,
-  "comment": 1627,
-  "code": 8829},
 "Python" :{
   "nFiles": 88,
   "blank": 1698,
@@ -73,10 +73,10 @@
   "comment": 387,
   "code": 7451},
 "SQL" :{
-  "nFiles": 33,
-  "blank": 754,
-  "comment": 869,
-  "code": 4937},
+  "nFiles": 34,
+  "blank": 786,
+  "comment": 883,
+  "code": 5533},
 "Swift" :{
   "nFiles": 33,
   "blank": 489,
@@ -84,7 +84,7 @@
   "code": 4667},
 "Velocity Template Language" :{
   "nFiles": 13,
-  "blank": 174,
+  "blank": 173,
   "comment": 5,
   "code": 3442},
 "CMake" :{
@@ -223,7 +223,7 @@
   "comment": 2,
   "code": 4},
 "SUM": {
-  "blank": 276743,
-  "comment": 865637,
-  "code": 3317343,
-  "nFiles": 16634} }
+  "blank": 277014,
+  "comment": 866097,
+  "code": 3319959,
+  "nFiles": 16663} }
