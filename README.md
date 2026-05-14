@@ -77,14 +77,14 @@ These are the areas I'm actively exploring or planning to dive into next:
 [ LANGUAGES BREAKDOWN ]
 
 JavaScript   --> 2,233,437 lines
-TypeScript   --> 790,067 lines
-Java         --> 42,322 lines
+TypeScript   --> 790,075 lines
+Java         --> 42,325 lines
 C++          --> 9,004 lines
 Python       --> 7,840 lines
 Swift        --> 4,667 lines
-Others       --> 232,622 lines
+Others       --> 232,375 lines
 
-[ TOTAL LINES OF CODE: 3,319,959 ]
+[ TOTAL LINES OF CODE: 3,319,723 ]
 ```
  <!-- LANGUAGES BREAKDOWN END -->
 
