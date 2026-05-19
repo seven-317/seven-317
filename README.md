@@ -139,7 +139,7 @@ Others       --> 233,229 lines
 
 <div align="center">
 
-<sub>© MMXXIV · <b>seven</b> · made with care in Taiwan</sub>
+<sub>© MMXXIV · <b>seven</b> · made with heart in Taiwan</sub>
 
 <br/>
 
