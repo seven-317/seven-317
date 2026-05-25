@@ -33,9 +33,9 @@ Full-stack developer, co-founder, and CS student based in Taiwan. I build produc
 
 **Maintaining —** *[TronClass API](https://github.com/seven-317)*, an unofficial LMS integration library on GitHub and NPM.
 
-**Leading —** *[VALKI](https://github.com/Deebug-VALKI/VALKI)* at Deebug Co., Ltd. as Co-founder & CTO. 140k+ active users across Flutter + Java + Next.js.
+**Maintaining —** *[SpotLive](https://github.com/seven-317/SpotLive)*: A Spotify live activity visualization project focused on realtime presence and minimal UI.
 
-**Creating —** *[SpotLive](https://github.com/seven-317/SpotLive)*: A Spotify live activity visualization project focused on realtime presence and minimal UI.
+**Leading —** *[VALKI](https://github.com/Deebug-VALKI/VALKI)* at Deebug Co., Ltd. as Co-founder & CTO. 140k+ active users across Flutter + Java + Next.js.
 
 **Learning —** System design, distributed architecture, advanced Supabase and PostgreSQL.
 
