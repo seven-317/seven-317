@@ -9,25 +9,19 @@
 <a href="https://www.sevenishere.com"><img src="https://img.shields.io/badge/sevenishere.com-0F172A?style=for-the-badge&logoColor=white" alt="Website"/></a>
 <a href="mailto:hi@sevenishere.com"><img src="https://img.shields.io/badge/hi@sevenishere.com-0EA5E9?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
 <a href="https://www.sevenishere.com/en/blog"><img src="https://img.shields.io/badge/Blog-6366F1?style=for-the-badge&logo=substack&logoColor=white" alt="Blog"/></a>
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/seven317)
 
 </div>
 
 ---
 
 ## § 01 · Index
-
 ```
 Currently   →  Sophomore CS student · Open to part-time work
 Discipline  →  Full-stack · Mobile · System design
 Stack       →  TypeScript · Dart · Java · Swift
 Location    →  Taiwan · UTC+8
-Reply by    →  Usually within 48h
 ```
-
-A full-stack developer, co-founder, and CS student based in Taiwan. I build products from frontend design to backend systems to mobile apps — with both craft and purpose.
-
-For long-form writing, case studies, and the full portfolio, see **[sevenishere.com →](https://www.sevenishere.com)**
+Full-stack developer, co-founder, and CS student based in Taiwan. I build products from frontend to backend to mobile — with both craft and purpose. For case studies and the full portfolio, see **[sevenishere.com →](https://www.sevenishere.com)**
 
 ---
 
@@ -35,17 +29,13 @@ For long-form writing, case studies, and the full portfolio, see **[sevenishere.
 
 <img align="right" width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seven-317&theme=tokyonight"/>
 
-<br/>
+**Building —** *OLLM (OwnLLM)*, a BYOK AI chat SaaS platform. Zero to one, currently in MVP stage.
 
-<img align="right" width="42%" src="https://spotify.beebombshell.com/now-playing?uid=3379c07546"/>
-
-A small public log of what's getting attention.
-
-**Building —** *OLLM (OwnLLM)*, a BYOK AI chat SaaS platform. Leading product from zero to one, currently in MVP stage.
-
-**Maintaining —** *[TronClass API](https://github.com/seven-317)*, an unofficial LMS integration library on GitHub and NPM. PRs welcome.
+**Maintaining —** *[TronClass API](https://github.com/seven-317)*, an unofficial LMS integration library on GitHub and NPM.
 
 **Leading —** *[VALKI](https://github.com/Deebug-VALKI/VALKI)* at Deebug Co., Ltd. as Co-founder & CTO. 140k+ active users across Flutter + Java + Next.js.
+
+**Creating —** *[SpotLive](https://github.com/seven-317/SpotLive)*: A Spotify live activity visualization project focused on realtime presence and minimal UI.
 
 **Learning —** System design, distributed architecture, advanced Supabase and PostgreSQL.
 
@@ -92,9 +82,14 @@ A small public log of what's getting attention.
 
 ---
 
-## § 04 · Working notes
+## § 04 · Lines of code
 
-Three things I keep returning to.
+<!-- LANGUAGES BREAKDOWN START -->
+<!-- LANGUAGES BREAKDOWN END -->
+
+---
+
+## § 05 · Working notes
 
 > **i. Shipped beats perfect.**
 > Ideas are worthless; execution is everything. Every idea sitting in your head is software that doesn't exist yet.
@@ -104,27 +99,6 @@ Three things I keep returning to.
 
 > **iii. Technology is a means, not an end.**
 > Choose the right tool for the problem, not the newest shiny thing.
-
----
-
-## § 05 · Lines of code
-
-<!-- LANGUAGES BREAKDOWN START -->
-```
-[ LANGUAGES BREAKDOWN ]
-
-JavaScript   --> 2,233,471 lines
-TypeScript   --> 791,480 lines
-Dart         --> 61,179 lines
-Java         --> 42,325 lines
-C++          --> 9,004 lines
-Python       --> 7,840 lines
-Swift        --> 4,667 lines
-Others       --> 172,050 lines
-
-[ TOTAL LINES OF CODE: 3,322,016 ]
-```
-<!-- LANGUAGES BREAKDOWN END -->
 
 ---
 
@@ -141,10 +115,10 @@ Others       --> 172,050 lines
 
 <div align="center">
 
-<sub>© MMXXIV · <b>SEVEN</b> · Made With Heart In Taiwan</sub>
+<sub>© MMXXIV · <b>SEVEN</b> · Made With Heart In Taiwan &nbsp;·&nbsp; <a href="https://www.sevenishere.com">sevenishere.com</a> &nbsp;·&nbsp; <a href="mailto:hi@sevenishere.com">hi@sevenishere.com</a></sub>
 
 <br/>
 
-<sub><a href="https://www.sevenishere.com">sevenishere.com</a> &nbsp;·&nbsp; <a href="mailto:hi@sevenishere.com">hi@sevenishere.com</a> &nbsp;·&nbsp; <a href="https://github.com/seven-317">github</a></sub>
+<img src="https://github.com/user-attachments/assets/3541846c-1604-4f3f-aa4b-f530ad09193c" width="100%"/>
 
 </div>
