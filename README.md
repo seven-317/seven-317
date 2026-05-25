@@ -9,6 +9,7 @@
 <a href="https://www.sevenishere.com"><img src="https://img.shields.io/badge/sevenishere.com-0F172A?style=for-the-badge&logoColor=white" alt="Website"/></a>
 <a href="mailto:hi@sevenishere.com"><img src="https://img.shields.io/badge/hi@sevenishere.com-0EA5E9?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
 <a href="https://www.sevenishere.com/en/blog"><img src="https://img.shields.io/badge/Blog-6366F1?style=for-the-badge&logo=substack&logoColor=white" alt="Blog"/></a>
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/seven317)
 
 </div>
 
