@@ -16,12 +16,6 @@
 ---
 
 ## § 01 · Index
-```
-Currently   →  Sophomore CS student · Open to part-time work
-Discipline  →  Full-stack · Mobile · System design
-Stack       →  TypeScript · Dart · Java · Swift
-Location    →  Taiwan · UTC+8
-```
 Full-stack developer, co-founder, and CS student based in Taiwan. I build products from frontend to backend to mobile — with both craft and purpose. For case studies and the full portfolio, see **[sevenishere.com →](https://www.sevenishere.com)**
 
 ---
