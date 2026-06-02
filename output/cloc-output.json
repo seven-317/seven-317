@@ -1,37 +1,32 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 45.2902860641479,
-  "n_files"            : 17230,
-  "n_lines"            : 4712183,
-  "files_per_second"   : 380.434779669881,
-  "lines_per_second"   : 104044.010526359,
+  "elapsed_seconds"    : 43.1510188579559,
+  "n_files"            : 16753,
+  "n_lines"            : 4477916,
+  "files_per_second"   : 388.24112253635,
+  "lines_per_second"   : 103773.123289171,
   "report_file"        : "../output/cloc-output.json"},
 "JavaScript" :{
-  "nFiles": 8278,
+  "nFiles": 8220,
   "blank": 156398,
-  "comment": 427382,
-  "code": 2233731},
+  "comment": 427360,
+  "code": 2233471},
 "TypeScript" :{
-  "nFiles": 5274,
-  "blank": 76110,
-  "comment": 372327,
-  "code": 798006},
-"Rust" :{
-  "nFiles": 32,
-  "blank": 5157,
-  "comment": 21537,
-  "code": 202821},
+  "nFiles": 5291,
+  "blank": 76383,
+  "comment": 372649,
+  "code": 799690},
 "Dart" :{
   "nFiles": 943,
   "blank": 7758,
   "comment": 2874,
   "code": 61179},
 "Java" :{
-  "nFiles": 939,
-  "blank": 10573,
-  "comment": 31365,
-  "code": 42325},
+  "nFiles": 947,
+  "blank": 10663,
+  "comment": 31755,
+  "code": 42633},
 "C" :{
   "nFiles": 207,
   "blank": 5380,
@@ -58,20 +53,15 @@
   "comment": 127,
   "code": 10261},
 "Kotlin" :{
-  "nFiles": 154,
-  "blank": 1607,
-  "comment": 1651,
-  "code": 9039},
+  "nFiles": 161,
+  "blank": 1635,
+  "comment": 1692,
+  "code": 9275},
 "C++" :{
   "nFiles": 30,
   "blank": 1783,
   "comment": 1322,
   "code": 9004},
-"D" :{
-  "nFiles": 428,
-  "blank": 1079,
-  "comment": 0,
-  "code": 7983},
 "Python" :{
   "nFiles": 88,
   "blank": 1698,
@@ -84,9 +74,9 @@
   "code": 7451},
 "SQL" :{
   "nFiles": 33,
-  "blank": 789,
-  "comment": 887,
-  "code": 5023},
+  "blank": 801,
+  "comment": 886,
+  "code": 5046},
 "Swift" :{
   "nFiles": 33,
   "blank": 489,
@@ -94,9 +84,9 @@
   "code": 4667},
 "Velocity Template Language" :{
   "nFiles": 13,
-  "blank": 173,
+  "blank": 174,
   "comment": 5,
-  "code": 3442},
+  "code": 3480},
 "CMake" :{
   "nFiles": 30,
   "blank": 359,
@@ -106,7 +96,7 @@
   "nFiles": 17,
   "blank": 181,
   "comment": 99,
-  "code": 1479},
+  "code": 1448},
 "diff" :{
   "nFiles": 3,
   "blank": 103,
@@ -122,6 +112,11 @@
   "blank": 173,
   "comment": 8,
   "code": 950},
+"Rust" :{
+  "nFiles": 9,
+  "blank": 117,
+  "comment": 117,
+  "code": 944},
 "Perl" :{
   "nFiles": 2,
   "blank": 112,
@@ -238,7 +233,7 @@
   "comment": 2,
   "code": 4},
 "SUM": {
-  "blank": 284209,
-  "comment": 888356,
-  "code": 3539618,
-  "nFiles": 17230} }
+  "blank": 278494,
+  "comment": 867666,
+  "code": 3331756,
+  "nFiles": 16753} }
