@@ -1,22 +1,22 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 42.9322221279144,
-  "n_files"            : 16924,
-  "n_lines"            : 4498060,
-  "files_per_second"   : 394.202749384269,
-  "lines_per_second"   : 104771.18996073,
+  "elapsed_seconds"    : 43.1319198608398,
+  "n_files"            : 16966,
+  "n_lines"            : 4500028,
+  "files_per_second"   : 393.351375379043,
+  "lines_per_second"   : 104331.734235778,
   "report_file"        : "../output/cloc-output.json"},
 "JavaScript" :{
-  "nFiles": 8223,
-  "blank": 156514,
-  "comment": 427448,
-  "code": 2234168},
+  "nFiles": 8224,
+  "blank": 156527,
+  "comment": 427449,
+  "code": 2234216},
 "TypeScript" :{
-  "nFiles": 5429,
-  "blank": 77954,
-  "comment": 373701,
-  "code": 815046},
+  "nFiles": 5467,
+  "blank": 78139,
+  "comment": 373741,
+  "code": 816574},
 "Dart" :{
   "nFiles": 952,
   "blank": 7814,
@@ -53,10 +53,10 @@
   "comment": 127,
   "code": 10261},
 "Kotlin" :{
-  "nFiles": 168,
-  "blank": 1679,
-  "comment": 1705,
-  "code": 9504},
+  "nFiles": 169,
+  "blank": 1680,
+  "comment": 1737,
+  "code": 9589},
 "C++" :{
   "nFiles": 30,
   "blank": 1783,
@@ -73,10 +73,10 @@
   "comment": 387,
   "code": 7451},
 "SQL" :{
-  "nFiles": 32,
-  "blank": 763,
-  "comment": 819,
-  "code": 4728},
+  "nFiles": 33,
+  "blank": 765,
+  "comment": 822,
+  "code": 4738},
 "Swift" :{
   "nFiles": 33,
   "blank": 489,
@@ -212,6 +212,11 @@
   "blank": 5,
   "comment": 10,
   "code": 12},
+"Solidity" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 6,
+  "code": 12},
 "Pug" :{
   "nFiles": 4,
   "blank": 1,
@@ -233,7 +238,7 @@
   "comment": 2,
   "code": 4},
 "SUM": {
-  "blank": 280358,
-  "comment": 868822,
-  "code": 3348880,
-  "nFiles": 16924} }
+  "blank": 280561,
+  "comment": 868904,
+  "code": 3350563,
+  "nFiles": 16966} }
