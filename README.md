@@ -53,6 +53,7 @@ Full-stack developer, co-founder, and CS student based in Taiwan. I build produc
 ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 **Frontend & Mobile**
 <br/>
@@ -61,6 +62,8 @@ Full-stack developer, co-founder, and CS student based in Taiwan. I build produc
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-000000?style=flat-square&logo=swift&logoColor=FA7343)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
 **Backend & Infrastructure**
 <br/>
