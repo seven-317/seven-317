@@ -26,9 +26,11 @@ Full-stack developer, co-founder, and CS student based in Taiwan. I build produc
 
 **Building —** *OLLM (OwnLLM)*, a BYOK AI chat SaaS platform. Zero to one, currently in MVP stage.
 
-**Maintaining —** *[TronClass API](https://github.com/seven-317)*, an unofficial LMS integration library on GitHub and NPM.
+**Maintaining —** *[TronClass API](https://github.com/seven-317/Tronclass-API)* An unofficial LMS integration library on GitHub and NPM.
 
-**Maintaining —** *[SpotLive](https://github.com/seven-317/SpotLive)*: A Spotify live activity visualization project focused on realtime presence and minimal UI.
+**Maintaining —** *[CodeCarto](https://github.com/seven-317/CodeCarto)* An auto-generated TypeScript architecture mapping tool focused on real-time synchronization and client-ready presentations.
+
+**Maintaining —** *[SpotLive](https://github.com/seven-317/SpotLive)* A Spotify live activity visualization project focused on realtime presence and minimal UI.
 
 **Leading —** *[VALKI](https://github.com/Deebug-VALKI/VALKI)* at Deebug Co., Ltd. as Co-founder & CTO. 140k+ active users across Flutter + Java + Next.js.
 
