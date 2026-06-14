@@ -30,6 +30,8 @@ Full-stack developer, co-founder, and CS student based in Taiwan. I build produc
 
 **Maintaining —** *[CodeCarto](https://github.com/seven-317/CodeCarto)* An auto-generated TypeScript architecture mapping tool focused on real-time synchronization and client-ready presentations.
 
+**Maintaining —** *[AuthorVoice](https://github.com/seven-317/author-voice)* An agent skill that makes AI-authored commits, PRs, and issues read in the developer's own voice — not like an assistant talking to you
+
 **Maintaining —** *[SpotLive](https://github.com/seven-317/SpotLive)* A Spotify live activity visualization project focused on realtime presence and minimal UI.
 
 **Leading —** *[VALKI](https://github.com/Deebug-VALKI/VALKI)* at Deebug Co., Ltd. as Co-founder & CTO. 140k+ active users across Flutter + Java + Next.js.
