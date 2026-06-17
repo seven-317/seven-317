@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 43.519788980484,
-  "n_files"            : 17045,
-  "n_lines"            : 4505534,
-  "files_per_second"   : 391.660906436004,
-  "lines_per_second"   : 103528.397208462,
+  "elapsed_seconds"    : 43.7978851795197,
+  "n_files"            : 17067,
+  "n_lines"            : 4507690,
+  "files_per_second"   : 389.676349212877,
+  "lines_per_second"   : 102920.266161797,
   "report_file"        : "../output/cloc-output.json"},
 "JavaScript" :{
   "nFiles": 8227,
@@ -18,10 +18,10 @@
   "comment": 374091,
   "code": 820375},
 "Dart" :{
-  "nFiles": 952,
-  "blank": 7814,
-  "comment": 2852,
-  "code": 61508},
+  "nFiles": 974,
+  "blank": 8036,
+  "comment": 2945,
+  "code": 63340},
 "Java" :{
   "nFiles": 968,
   "blank": 10840,
@@ -61,7 +61,7 @@
   "nFiles": 30,
   "blank": 1783,
   "comment": 1322,
-  "code": 9004},
+  "code": 9010},
 "Python" :{
   "nFiles": 88,
   "blank": 1698,
@@ -81,7 +81,7 @@
   "nFiles": 33,
   "blank": 489,
   "comment": 80,
-  "code": 4667},
+  "code": 4669},
 "Velocity Template Language" :{
   "nFiles": 13,
   "blank": 174,
@@ -91,7 +91,7 @@
   "nFiles": 30,
   "blank": 358,
   "comment": 144,
-  "code": 1673},
+  "code": 1675},
 "Maven" :{
   "nFiles": 17,
   "blank": 183,
@@ -139,7 +139,7 @@
   "code": 723},
 "Gradle" :{
   "nFiles": 6,
-  "blank": 117,
+  "blank": 116,
   "comment": 29,
   "code": 589},
 "Windows Module Definition" :{
@@ -238,7 +238,7 @@
   "comment": 2,
   "code": 4},
 "SUM": {
-  "blank": 281095,
-  "comment": 869571,
-  "code": 3354868,
-  "nFiles": 17045} }
+  "blank": 281316,
+  "comment": 869664,
+  "code": 3356710,
+  "nFiles": 17067} }
