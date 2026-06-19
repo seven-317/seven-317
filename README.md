@@ -98,9 +98,9 @@ C++          --> 9,010 lines
 Python       --> 7,840 lines
 Swift        --> 4,669 lines
 Rust         --> 969 lines
-Others       --> 172,849 lines
+Others       --> 172,899 lines
 
-[ TOTAL LINES OF CODE: 3,356,716 ]
+[ TOTAL LINES OF CODE: 3,356,766 ]
 ```
 <!-- LANGUAGES BREAKDOWN END -->
 
