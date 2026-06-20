@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 43.0793809890747,
-  "n_files"            : 17067,
-  "n_lines"            : 4507803,
-  "files_per_second"   : 396.175609030416,
-  "lines_per_second"   : 104639.456196996,
+  "elapsed_seconds"    : 43.1553678512573,
+  "n_files"            : 17068,
+  "n_lines"            : 4507953,
+  "files_per_second"   : 395.501205292188,
+  "lines_per_second"   : 104458.685546082,
   "report_file"        : "../output/cloc-output.json"},
 "JavaScript" :{
   "nFiles": 8227,
@@ -18,10 +18,10 @@
   "comment": 374091,
   "code": 820375},
 "Dart" :{
-  "nFiles": 974,
-  "blank": 8036,
-  "comment": 2945,
-  "code": 63340},
+  "nFiles": 975,
+  "blank": 8048,
+  "comment": 2949,
+  "code": 63471},
 "Java" :{
   "nFiles": 968,
   "blank": 10839,
@@ -91,7 +91,7 @@
   "nFiles": 30,
   "blank": 358,
   "comment": 144,
-  "code": 1675},
+  "code": 1678},
 "Maven" :{
   "nFiles": 17,
   "blank": 183,
@@ -238,7 +238,7 @@
   "comment": 2,
   "code": 4},
 "SUM": {
-  "blank": 281338,
-  "comment": 869675,
-  "code": 3356790,
-  "nFiles": 17067} }
+  "blank": 281350,
+  "comment": 869679,
+  "code": 3356924,
+  "nFiles": 17068} }
