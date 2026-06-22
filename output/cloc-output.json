@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 43.6299800872803,
+  "elapsed_seconds"    : 44.9092350006104,
   "n_files"            : 17068,
-  "n_lines"            : 4507953,
-  "files_per_second"   : 391.198895022552,
-  "lines_per_second"   : 103322.371245231,
+  "n_lines"            : 4508021,
+  "files_per_second"   : 380.055460748063,
+  "lines_per_second"   : 100380.712339872,
   "report_file"        : "../output/cloc-output.json"},
 "JavaScript" :{
   "nFiles": 8227,
@@ -19,14 +19,14 @@
   "code": 820375},
 "Dart" :{
   "nFiles": 975,
-  "blank": 8048,
-  "comment": 2949,
-  "code": 63471},
+  "blank": 8055,
+  "comment": 2970,
+  "code": 63516},
 "Java" :{
   "nFiles": 968,
-  "blank": 10839,
-  "comment": 32089,
-  "code": 43396},
+  "blank": 10845,
+  "comment": 32119,
+  "code": 43412},
 "C" :{
   "nFiles": 207,
   "blank": 5380,
@@ -74,9 +74,9 @@
   "code": 7451},
 "SQL" :{
   "nFiles": 34,
-  "blank": 788,
-  "comment": 822,
-  "code": 4835},
+  "blank": 776,
+  "comment": 819,
+  "code": 4794},
 "Swift" :{
   "nFiles": 33,
   "blank": 489,
@@ -86,7 +86,7 @@
   "nFiles": 13,
   "blank": 174,
   "comment": 5,
-  "code": 3480},
+  "code": 3479},
 "CMake" :{
   "nFiles": 30,
   "blank": 358,
@@ -238,7 +238,7 @@
   "comment": 2,
   "code": 4},
 "SUM": {
-  "blank": 281350,
-  "comment": 869679,
-  "code": 3356924,
+  "blank": 281351,
+  "comment": 869727,
+  "code": 3356943,
   "nFiles": 17068} }
