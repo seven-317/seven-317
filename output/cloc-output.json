@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 47.3879110813141,
-  "n_files"            : 17753,
-  "n_lines"            : 4598956,
-  "files_per_second"   : 374.631411153304,
-  "lines_per_second"   : 97049.1396446773,
+  "elapsed_seconds"    : 46.5157449245453,
+  "n_files"            : 17754,
+  "n_lines"            : 4600230,
+  "files_per_second"   : 381.677215506262,
+  "lines_per_second"   : 98896.1911168398,
   "report_file"        : "../output/cloc-output.json"},
 "JavaScript" :{
   "nFiles": 8320,
@@ -24,9 +24,9 @@
   "code": 68893},
 "Java" :{
   "nFiles": 1362,
-  "blank": 15688,
+  "blank": 15689,
   "comment": 46914,
-  "code": 65382},
+  "code": 65385},
 "Vuejs Component" :{
   "nFiles": 238,
   "blank": 1614,
@@ -54,9 +54,9 @@
   "code": 10261},
 "Kotlin" :{
   "nFiles": 180,
-  "blank": 1754,
-  "comment": 1795,
-  "code": 10111},
+  "blank": 1761,
+  "comment": 1794,
+  "code": 10132},
 "C++" :{
   "nFiles": 30,
   "blank": 1783,
@@ -73,25 +73,25 @@
   "comment": 387,
   "code": 7451},
 "SQL" :{
-  "nFiles": 38,
-  "blank": 988,
-  "comment": 1033,
-  "code": 6278},
+  "nFiles": 37,
+  "blank": 979,
+  "comment": 1026,
+  "code": 6220},
+"Velocity Template Language" :{
+  "nFiles": 22,
+  "blank": 281,
+  "comment": 14,
+  "code": 5781},
 "Swift" :{
   "nFiles": 33,
   "blank": 489,
   "comment": 80,
   "code": 4669},
-"Velocity Template Language" :{
-  "nFiles": 20,
-  "blank": 264,
-  "comment": 8,
-  "code": 4490},
 "Maven" :{
   "nFiles": 25,
-  "blank": 312,
-  "comment": 178,
-  "code": 2467},
+  "blank": 310,
+  "comment": 176,
+  "code": 2474},
 "JSX" :{
   "nFiles": 4,
   "blank": 221,
@@ -238,7 +238,7 @@
   "comment": 2,
   "code": 4},
 "SUM": {
-  "blank": 288998,
-  "comment": 888647,
-  "code": 3421311,
-  "nFiles": 17753} }
+  "blank": 289012,
+  "comment": 888643,
+  "code": 3422575,
+  "nFiles": 17754} }
