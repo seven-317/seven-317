@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 47.0306930541992,
-  "n_files"            : 17754,
-  "n_lines"            : 4600230,
-  "files_per_second"   : 377.498158054781,
-  "lines_per_second"   : 97813.3576449446,
+  "elapsed_seconds"    : 47.9251871109009,
+  "n_files"            : 18607,
+  "n_lines"            : 4673026,
+  "files_per_second"   : 388.250962003396,
+  "lines_per_second"   : 97506.6824295631,
   "report_file"        : "../output/cloc-output.json"},
 "JavaScript" :{
   "nFiles": 8320,
@@ -18,10 +18,10 @@
   "comment": 374216,
   "code": 824725},
 "Dart" :{
-  "nFiles": 1001,
-  "blank": 8705,
-  "comment": 3648,
-  "code": 68893},
+  "nFiles": 1827,
+  "blank": 16144,
+  "comment": 6471,
+  "code": 129655},
 "Java" :{
   "nFiles": 1362,
   "blank": 15689,
@@ -53,15 +53,15 @@
   "comment": 127,
   "code": 10261},
 "Kotlin" :{
-  "nFiles": 180,
-  "blank": 1761,
-  "comment": 1794,
-  "code": 10132},
+  "nFiles": 182,
+  "blank": 1767,
+  "comment": 1796,
+  "code": 10160},
 "C++" :{
-  "nFiles": 30,
-  "blank": 1783,
-  "comment": 1322,
-  "code": 9010},
+  "nFiles": 31,
+  "blank": 1792,
+  "comment": 1326,
+  "code": 9040},
 "Python" :{
   "nFiles": 88,
   "blank": 1698,
@@ -83,10 +83,15 @@
   "comment": 14,
   "code": 5781},
 "Swift" :{
-  "nFiles": 33,
-  "blank": 489,
-  "comment": 80,
-  "code": 4669},
+  "nFiles": 34,
+  "blank": 508,
+  "comment": 82,
+  "code": 4857},
+"CMake" :{
+  "nFiles": 51,
+  "blank": 603,
+  "comment": 235,
+  "code": 2569},
 "Maven" :{
   "nFiles": 25,
   "blank": 310,
@@ -97,11 +102,6 @@
   "blank": 221,
   "comment": 24,
   "code": 2022},
-"CMake" :{
-  "nFiles": 30,
-  "blank": 358,
-  "comment": 144,
-  "code": 1678},
 "diff" :{
   "nFiles": 4,
   "blank": 105,
@@ -138,10 +138,10 @@
   "comment": 357,
   "code": 723},
 "Gradle" :{
-  "nFiles": 6,
-  "blank": 116,
-  "comment": 29,
-  "code": 589},
+  "nFiles": 7,
+  "blank": 132,
+  "comment": 34,
+  "code": 704},
 "Windows Module Definition" :{
   "nFiles": 5,
   "blank": 83,
@@ -173,10 +173,10 @@
   "comment": 11,
   "code": 159},
 "Windows Resource File" :{
-  "nFiles": 1,
-  "blank": 23,
-  "comment": 29,
-  "code": 69},
+  "nFiles": 2,
+  "blank": 46,
+  "comment": 58,
+  "code": 138},
 "EJS" :{
   "nFiles": 1,
   "blank": 25,
@@ -238,7 +238,7 @@
   "comment": 2,
   "code": 4},
 "SUM": {
-  "blank": 289012,
-  "comment": 888643,
-  "code": 3422575,
-  "nFiles": 17754} }
+  "blank": 296769,
+  "comment": 891599,
+  "code": 3484658,
+  "nFiles": 18607} }
