@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 47.9251871109009,
+  "elapsed_seconds"    : 40.8644940853119,
   "n_files"            : 18607,
-  "n_lines"            : 4673026,
-  "files_per_second"   : 388.250962003396,
-  "lines_per_second"   : 97506.6824295631,
+  "n_lines"            : 4673063,
+  "files_per_second"   : 455.334157842615,
+  "lines_per_second"   : 114355.092473289,
   "report_file"        : "../output/cloc-output.json"},
 "JavaScript" :{
   "nFiles": 8320,
@@ -19,14 +19,14 @@
   "code": 824725},
 "Dart" :{
   "nFiles": 1827,
-  "blank": 16144,
+  "blank": 16145,
   "comment": 6471,
-  "code": 129655},
+  "code": 129628},
 "Java" :{
-  "nFiles": 1362,
-  "blank": 15689,
+  "nFiles": 1363,
+  "blank": 15703,
   "comment": 46914,
-  "code": 65385},
+  "code": 65441},
 "Vuejs Component" :{
   "nFiles": 238,
   "blank": 1614,
@@ -53,10 +53,10 @@
   "comment": 127,
   "code": 10261},
 "Kotlin" :{
-  "nFiles": 182,
-  "blank": 1767,
+  "nFiles": 181,
+  "blank": 1768,
   "comment": 1796,
-  "code": 10160},
+  "code": 10152},
 "C++" :{
   "nFiles": 31,
   "blank": 1792,
@@ -238,7 +238,7 @@
   "comment": 2,
   "code": 4},
 "SUM": {
-  "blank": 296769,
+  "blank": 296785,
   "comment": 891599,
-  "code": 3484658,
+  "code": 3484679,
   "nFiles": 18607} }
