@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=seven&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=est.%20mmxxiv%20%C2%B7%20full-stack%20developer%20%C2%B7%20cs%20student&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=seven&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=est.%20mmxxiv%20%C2%B7%20full-stack%20developer&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=0EA5E9&center=true&vCenter=true&width=620&lines=Turning+ideas+into+reality.;Full-stack+%C2%B7+Mobile+%C2%B7+System+design;Co-founder+and+CTO+at+Deebug+Co." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=0EA5E9&center=true&vCenter=true&width=620&lines=Turning+ideas+into+reality.;Full-stack+%C2%B7+Mobile+%C2%B7+System+design;Founder+and+CTO+at+White+Giving+Bug+Co." alt="Typing SVG"/>
 
 <br/>
 
@@ -16,7 +16,7 @@
 ---
 
 ## § 01 · Index
-Full-stack developer, co-founder, and CS student based in Taiwan. I build products from frontend to backend to mobile — with both craft and purpose. For case studies and the full portfolio, see **[sevenishere.com →](https://www.sevenishere.com)**
+Full-stack developer and founder based in Taiwan. I build products from frontend to backend to mobile — with both craft and purpose. For case studies, multi-language portfolio implementations, and more, see **[sevenishere.com →](https://www.sevenishere.com)**
 
 ---
 
@@ -24,19 +24,7 @@ Full-stack developer, co-founder, and CS student based in Taiwan. I build produc
 
 <img align="right" width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seven-317&theme=tokyonight"/>
 
-**Building —** *OLLM (OwnLLM)*, a BYOK AI chat SaaS platform. Zero to one, currently in MVP stage.
-
-**Maintaining —** *[TronClass API](https://github.com/seven-317/Tronclass-API)* An unofficial LMS integration library on GitHub and NPM.
-
-**Maintaining —** *[CodeCarto](https://github.com/seven-317/CodeCarto)* An auto-generated TypeScript architecture mapping tool focused on real-time synchronization and client-ready presentations.
-
-**Maintaining —** *[AuthorVoice](https://github.com/seven-317/author-voice)* An agent skill that makes AI-authored commits, PRs, and issues read in the developer's own voice — not like an assistant talking to you
-
-**Maintaining —** *[SpotLive](https://github.com/seven-317/SpotLive)* A Spotify live activity visualization project focused on realtime presence and minimal UI.
-
-**Leading —** *[VALKI](https://github.com/Deebug-VALKI/VALKI)* at Deebug Co., Ltd. as Co-founder & CTO. 140k+ active users across Flutter + Java + Next.js.
-
-**Learning —** System design, distributed architecture, advanced Supabase and PostgreSQL.
+**Leading —** *[VALKI](https://github.com/Deebug-VALKI/VALKI)* at White Giving Bug Co., Ltd. as Co-founder & CTO. Maintaining the backend and mobile app alongside my partner, managing everything from code architecture to physical server infrastructure.
 
 <br clear="right"/>
 
@@ -50,35 +38,25 @@ Full-stack developer, co-founder, and CS student based in Taiwan. I build produc
 <br/>
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 **Frontend & Mobile**
 <br/>
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js%20(App%20Router)-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-000000?style=flat-square&logo=swift&logoColor=FA7343)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-000000?style=flat-square&logo=swift&logoColor=FA7343)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 **Backend & Infrastructure**
 <br/>
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-**Design**
-<br/>
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/-Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 <br clear="right"/>
 
@@ -87,37 +65,21 @@ Full-stack developer, co-founder, and CS student based in Taiwan. I build produc
 ## § 04 · Lines of code
 
 <!-- LANGUAGES BREAKDOWN START -->
-```
-[ LANGUAGES BREAKDOWN ]
 
-JavaScript   --> 2,239,643 lines
-TypeScript   --> 824,725 lines
-Dart         --> 129,666 lines
-Java         --> 65,441 lines
-C++          --> 9,040 lines
-Python       --> 7,840 lines
-Swift        --> 4,857 lines
-CMake        --> 2,569 lines
-Rust         --> 969 lines
-Ruby         --> 18 lines
-Others       --> 199,949 lines
-
-[ TOTAL LINES OF CODE: 3,484,717 ]
-```
 <!-- LANGUAGES BREAKDOWN END -->
 
 ---
 
 ## § 05 · Working notes
 
-> **i. Shipped beats perfect.**
-> Ideas are worthless; execution is everything. Every idea sitting in your head is software that doesn't exist yet.
+> **i. Resilience is an architecture.**
+> Whether it's designing a scalable database schema or replacing burnt-out server cooling fans, the true test of a system is how it recovers from failure.
 
 > **ii. Start from the user's pain.**
 > Before writing the first line of code, ask who needs this and why. The answer shapes everything.
 
 > **iii. Technology is a means, not an end.**
-> Choose the right tool for the problem, not the newest shiny thing.
+> Choose the right tool for the problem, not the newest shiny thing. Let the architecture fit the reality.
 
 ---
 
