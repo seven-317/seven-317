@@ -13,12 +13,8 @@
 
 </div>
 
----
-
 ## § 01 · Index
 Full-stack developer and founder based in Taiwan. I build products from frontend to backend to mobile — with both craft and purpose. For case studies, multi-language portfolio implementations, and more, see **[sevenishere.com →](https://www.sevenishere.com)**
-
----
 
 ## § 02 · Now
 
@@ -27,8 +23,6 @@ Full-stack developer and founder based in Taiwan. I build products from frontend
 **Leading —** *[VALKI](https://github.com/Deebug-VALKI/VALKI)* at White Giving Bug Co., Ltd. as Co-founder & CTO. Maintaining the backend and mobile app alongside my partner, managing everything from code architecture to physical server infrastructure.
 
 <br clear="right"/>
-
----
 
 ## § 03 · Stack
 
@@ -60,8 +54,6 @@ Full-stack developer and founder based in Taiwan. I build products from frontend
 
 <br clear="right"/>
 
----
-
 ## § 04 · Lines of code
 
 <!-- LANGUAGES BREAKDOWN START -->
@@ -84,8 +76,6 @@ Others       --> 199,949 lines
 ```
 <!-- LANGUAGES BREAKDOWN END -->
 
----
-
 ## § 05 · Working notes
 
 > **i. Resilience is an architecture.**
@@ -97,8 +87,6 @@ Others       --> 199,949 lines
 > **iii. Technology is a means, not an end.**
 > Choose the right tool for the problem, not the newest shiny thing. Let the architecture fit the reality.
 
----
-
 ## § 06 · Contributions
 
 <div align="center">
@@ -107,8 +95,6 @@ Others       --> 199,949 lines
     <img alt="github contribution snake" width="100%" src="https://raw.githubusercontent.com/seven-317/seven-317/gh-pages/github-snake-dark.svg" />
   </picture>
 </div>
-
----
 
 <div align="center">
 
