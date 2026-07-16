@@ -20,7 +20,7 @@ Full-stack developer and founder based in Taiwan. I build products from frontend
 
 <img align="right" width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seven-317&theme=tokyonight"/>
 
-**Leading —** *[VALKI](https://github.com/Deebug-VALKI/VALKI)* at White Giving Bug Co., Ltd. as Co-founder & CTO. Maintaining the backend and mobile app alongside my partner, managing everything from code architecture to physical server infrastructure.
+**Leading —** *[VALKI](https://github.com/Deebug-VALKI/VALKI)* at Deebug Co., Ltd. as Co-founder & CTO. Maintaining the backend and mobile app alongside my partner, managing everything from code architecture to physical server infrastructure.
 
 <br clear="right"/>
 
