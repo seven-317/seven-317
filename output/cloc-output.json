@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 47.7496509552002,
-  "n_files"            : 18867,
-  "n_lines"            : 4702284,
-  "files_per_second"   : 395.123307135825,
-  "lines_per_second"   : 98477.8716898222,
+  "elapsed_seconds"    : 47.3315970897675,
+  "n_files"            : 18934,
+  "n_lines"            : 4708216,
+  "files_per_second"   : 400.02875804276,
+  "lines_per_second"   : 99473.0009019252,
   "report_file"        : "../output/cloc-output.json"},
 "JavaScript" :{
   "nFiles": 8323,
@@ -19,14 +19,14 @@
   "code": 828543},
 "Dart" :{
   "nFiles": 1912,
-  "blank": 16854,
-  "comment": 6631,
-  "code": 135421},
+  "blank": 16859,
+  "comment": 6634,
+  "code": 135405},
 "Java" :{
-  "nFiles": 1368,
-  "blank": 15760,
-  "comment": 47144,
-  "code": 65625},
+  "nFiles": 1422,
+  "blank": 16458,
+  "comment": 48385,
+  "code": 68259},
 "Vuejs Component" :{
   "nFiles": 240,
   "blank": 1713,
@@ -52,16 +52,16 @@
   "blank": 2401,
   "comment": 517,
   "code": 18546},
+"Kotlin" :{
+  "nFiles": 190,
+  "blank": 1921,
+  "comment": 1881,
+  "code": 11065},
 "m4" :{
   "nFiles": 11,
   "blank": 1113,
   "comment": 127,
   "code": 10261},
-"Kotlin" :{
-  "nFiles": 181,
-  "blank": 1768,
-  "comment": 1796,
-  "code": 10155},
 "C++" :{
   "nFiles": 31,
   "blank": 1792,
@@ -78,25 +78,25 @@
   "comment": 387,
   "code": 7451},
 "SQL" :{
-  "nFiles": 41,
-  "blank": 1071,
-  "comment": 1056,
-  "code": 6657},
+  "nFiles": 42,
+  "blank": 1077,
+  "comment": 1068,
+  "code": 6731},
 "Velocity Template Language" :{
   "nFiles": 22,
-  "blank": 281,
-  "comment": 14,
-  "code": 5781},
+  "blank": 288,
+  "comment": 15,
+  "code": 5776},
 "CMake" :{
   "nFiles": 52,
   "blank": 608,
   "comment": 238,
   "code": 2596},
 "Maven" :{
-  "nFiles": 25,
-  "blank": 310,
+  "nFiles": 26,
+  "blank": 314,
   "comment": 176,
-  "code": 2474},
+  "code": 2502},
 "JSX" :{
   "nFiles": 4,
   "blank": 221,
@@ -132,16 +132,16 @@
   "blank": 181,
   "comment": 42,
   "code": 847},
+"Gradle" :{
+  "nFiles": 9,
+  "blank": 145,
+  "comment": 36,
+  "code": 781},
 "Assembly" :{
   "nFiles": 2,
   "blank": 26,
   "comment": 357,
   "code": 723},
-"Gradle" :{
-  "nFiles": 7,
-  "blank": 132,
-  "comment": 34,
-  "code": 704},
 "Windows Module Definition" :{
   "nFiles": 5,
   "blank": 83,
@@ -238,7 +238,7 @@
   "comment": 2,
   "code": 4},
 "SUM": {
-  "blank": 300064,
-  "comment": 892617,
-  "code": 3509603,
-  "nFiles": 18867} }
+  "blank": 300950,
+  "comment": 893961,
+  "code": 3513305,
+  "nFiles": 18934} }
