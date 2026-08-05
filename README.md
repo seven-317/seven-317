@@ -62,17 +62,17 @@ Full-stack developer and founder based in Taiwan. I build products from frontend
 
 JavaScript   --> 2,239,764 lines
 TypeScript   --> 828,543 lines
-Dart         --> 135,042 lines
-Java         --> 68,259 lines
+Dart         --> 138,393 lines
+Java         --> 69,470 lines
 Swift        --> 18,546 lines
 C++          --> 9,040 lines
 Python       --> 7,928 lines
 CMake        --> 2,596 lines
 Rust         --> 969 lines
 Ruby         --> 18 lines
-Others       --> 202,237 lines
+Others       --> 203,492 lines
 
-[ TOTAL LINES OF CODE: 3,512,942 ]
+[ TOTAL LINES OF CODE: 3,518,759 ]
 ```
 <!-- LANGUAGES BREAKDOWN END -->
 
