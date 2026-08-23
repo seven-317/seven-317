@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 49.1792020797729,
-  "n_files"            : 19099,
-  "n_lines"            : 4760780,
-  "files_per_second"   : 388.355223190075,
-  "lines_per_second"   : 96804.7426283493,
+  "elapsed_seconds"    : 47.6852869987488,
+  "n_files"            : 19100,
+  "n_lines"            : 4760816,
+  "files_per_second"   : 400.542834113616,
+  "lines_per_second"   : 99838.2582897094,
   "report_file"        : "../output/cloc-output.json"},
 "JavaScript" :{
   "nFiles": 8323,
@@ -19,9 +19,9 @@
   "code": 837817},
 "Dart" :{
   "nFiles": 1973,
-  "blank": 18541,
+  "blank": 18544,
   "comment": 7083,
-  "code": 148897},
+  "code": 148899},
 "Java" :{
   "nFiles": 1490,
   "blank": 17352,
@@ -197,6 +197,11 @@
   "blank": 6,
   "comment": 0,
   "code": 41},
+"ProGuard" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 21,
+  "code": 26},
 "Handlebars" :{
   "nFiles": 1,
   "blank": 3,
@@ -212,11 +217,6 @@
   "blank": 4,
   "comment": 1,
   "code": 18},
-"ProGuard" :{
-  "nFiles": 1,
-  "blank": 5,
-  "comment": 10,
-  "code": 12},
 "Solidity" :{
   "nFiles": 1,
   "blank": 2,
@@ -243,7 +243,7 @@
   "comment": 2,
   "code": 4},
 "SUM": {
-  "blank": 305811,
-  "comment": 910022,
-  "code": 3544947,
-  "nFiles": 19099} }
+  "blank": 305820,
+  "comment": 910033,
+  "code": 3544963,
+  "nFiles": 19100} }
