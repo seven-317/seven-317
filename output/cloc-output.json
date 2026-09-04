@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 46.6908872127533,
-  "n_files"            : 19142,
-  "n_lines"            : 4767083,
-  "files_per_second"   : 409.972933535765,
-  "lines_per_second"   : 102098.788105656,
+  "elapsed_seconds"    : 50.1712620258331,
+  "n_files"            : 19143,
+  "n_lines"            : 4767039,
+  "files_per_second"   : 381.55308890064,
+  "lines_per_second"   : 95015.3296432021,
   "report_file"        : "../output/cloc-output.json"},
 "JavaScript" :{
   "nFiles": 8325,
@@ -18,15 +18,15 @@
   "comment": 388058,
   "code": 837817},
 "Dart" :{
-  "nFiles": 1999,
-  "blank": 19002,
-  "comment": 7162,
-  "code": 153222},
+  "nFiles": 2000,
+  "blank": 18945,
+  "comment": 7130,
+  "code": 153151},
 "Java" :{
   "nFiles": 1500,
-  "blank": 17423,
-  "comment": 49931,
-  "code": 73475},
+  "blank": 17425,
+  "comment": 49946,
+  "code": 73486},
 "Vuejs Component" :{
   "nFiles": 240,
   "blank": 1728,
@@ -53,10 +53,10 @@
   "comment": 517,
   "code": 18608},
 "Kotlin" :{
-  "nFiles": 209,
-  "blank": 2266,
-  "comment": 2233,
-  "code": 14502},
+  "nFiles": 210,
+  "blank": 2281,
+  "comment": 2238,
+  "code": 14598},
 "m4" :{
   "nFiles": 11,
   "blank": 1113,
@@ -88,15 +88,15 @@
   "comment": 15,
   "code": 5776},
 "CMake" :{
-  "nFiles": 52,
-  "blank": 608,
-  "comment": 238,
-  "code": 2596},
+  "nFiles": 51,
+  "blank": 603,
+  "comment": 235,
+  "code": 2569},
 "Maven" :{
   "nFiles": 26,
-  "blank": 316,
+  "blank": 317,
   "comment": 177,
-  "code": 2522},
+  "code": 2527},
 "JSX" :{
   "nFiles": 4,
   "blank": 221,
@@ -136,7 +136,7 @@
   "nFiles": 9,
   "blank": 147,
   "comment": 89,
-  "code": 740},
+  "code": 741},
 "Assembly" :{
   "nFiles": 2,
   "blank": 26,
@@ -243,7 +243,7 @@
   "comment": 2,
   "code": 4},
 "SUM": {
-  "blank": 306462,
-  "comment": 910269,
-  "code": 3550352,
-  "nFiles": 19142} }
+  "blank": 306418,
+  "comment": 910254,
+  "code": 3550367,
+  "nFiles": 19143} }
