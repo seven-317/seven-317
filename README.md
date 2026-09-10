@@ -70,9 +70,9 @@ Python       --> 7,928 lines
 CMake        --> 2,596 lines
 Rust         --> 969 lines
 Ruby         --> 18 lines
-Others       --> 206,665 lines
+Others       --> 206,667 lines
 
-[ TOTAL LINES OF CODE: 3,556,591 ]
+[ TOTAL LINES OF CODE: 3,556,593 ]
 ```
 <!-- LANGUAGES BREAKDOWN END -->
 
