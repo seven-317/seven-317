@@ -65,15 +65,15 @@ JavaScript   --> 2,255,076 lines
 TypeScript   --> 885,317 lines
 Python       --> 188,013 lines
 Dart         --> 171,514 lines
-Java         --> 77,403 lines
+Java         --> 78,961 lines
 Swift        --> 18,697 lines
 C++          --> 9,040 lines
 CMake        --> 2,596 lines
 Rust         --> 969 lines
 Ruby         --> 18 lines
-Others       --> 211,536 lines
+Others       --> 211,872 lines
 
-[ TOTAL LINES OF CODE: 3,820,179 ]
+[ TOTAL LINES OF CODE: 3,822,073 ]
 ```
 <!-- LANGUAGES BREAKDOWN END -->
 
