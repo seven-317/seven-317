@@ -1,22 +1,22 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "2.06",
-  "elapsed_seconds"    : 12671.5387458801,
-  "n_files"            : 20864,
-  "n_lines"            : 5141090,
-  "files_per_second"   : 1.64652457909135,
-  "lines_per_second"   : 405.719471257704,
+  "elapsed_seconds"    : 12660.9935281277,
+  "n_files"            : 21355,
+  "n_lines"            : 5189470,
+  "files_per_second"   : 1.68667648021127,
+  "lines_per_second"   : 409.878576153686,
   "report_file"        : "../output/cloc-output.json"},
 "JavaScript" :{
-  "nFiles": 8359,
-  "blank": 157825,
-  "comment": 429212,
-  "code": 2255361},
+  "nFiles": 8357,
+  "blank": 157826,
+  "comment": 429211,
+  "code": 2255237},
 "TypeScript" :{
-  "nFiles": 5892,
-  "blank": 84571,
-  "comment": 391264,
-  "code": 897775},
+  "nFiles": 5858,
+  "blank": 84565,
+  "comment": 391214,
+  "code": 889565},
 "Python" :{
   "nFiles": 604,
   "blank": 14500,
@@ -28,10 +28,10 @@
   "comment": 7436,
   "code": 176193},
 "Java" :{
-  "nFiles": 2036,
-  "blank": 23248,
-  "comment": 62219,
-  "code": 103466},
+  "nFiles": 2481,
+  "blank": 28520,
+  "comment": 74249,
+  "code": 132535},
 "Vuejs Component" :{
   "nFiles": 255,
   "blank": 1899,
@@ -48,25 +48,30 @@
   "comment": 9054,
   "code": 29933},
 "Bourne Shell" :{
-  "nFiles": 79,
+  "nFiles": 78,
   "blank": 4501,
-  "comment": 4799,
-  "code": 26093},
+  "comment": 4798,
+  "code": 26079},
+"Kotlin" :{
+  "nFiles": 349,
+  "blank": 3761,
+  "comment": 4031,
+  "code": 22024},
 "Swift" :{
   "nFiles": 129,
   "blank": 2428,
   "comment": 528,
   "code": 18759},
-"Kotlin" :{
-  "nFiles": 285,
-  "blank": 3032,
-  "comment": 3126,
-  "code": 18594},
 "SQL" :{
-  "nFiles": 63,
-  "blank": 1612,
-  "comment": 1395,
-  "code": 12167},
+  "nFiles": 64,
+  "blank": 1727,
+  "comment": 1549,
+  "code": 12986},
+"Velocity Template Language" :{
+  "nFiles": 38,
+  "blank": 528,
+  "comment": 31,
+  "code": 10818},
 "m4" :{
   "nFiles": 11,
   "blank": 1113,
@@ -77,26 +82,21 @@
   "blank": 1847,
   "comment": 1371,
   "code": 9245},
-"Velocity Template Language" :{
-  "nFiles": 30,
-  "blank": 408,
-  "comment": 23,
-  "code": 8297},
 "LESS" :{
   "nFiles": 156,
   "blank": 1042,
   "comment": 389,
   "code": 7599},
+"Maven" :{
+  "nFiles": 46,
+  "blank": 615,
+  "comment": 372,
+  "code": 5270},
 "PowerShell" :{
   "nFiles": 68,
   "blank": 287,
   "comment": 245,
   "code": 4315},
-"Maven" :{
-  "nFiles": 36,
-  "blank": 467,
-  "comment": 274,
-  "code": 3883},
 "CMake" :{
   "nFiles": 58,
   "blank": 675,
@@ -158,10 +158,10 @@
   "comment": 59,
   "code": 295},
 "INI" :{
-  "nFiles": 17,
+  "nFiles": 18,
   "blank": 59,
   "comment": 0,
-  "code": 246},
+  "code": 249},
 "Windows Resource File" :{
   "nFiles": 3,
   "blank": 69,
@@ -182,16 +182,16 @@
   "blank": 13,
   "comment": 0,
   "code": 138},
-"Dockerfile" :{
-  "nFiles": 8,
-  "blank": 35,
-  "comment": 16,
-  "code": 102},
 "WXML" :{
   "nFiles": 2,
   "blank": 3,
   "comment": 6,
   "code": 84},
+"Dockerfile" :{
+  "nFiles": 7,
+  "blank": 34,
+  "comment": 16,
+  "code": 80},
 "EJS" :{
   "nFiles": 1,
   "blank": 25,
@@ -253,7 +253,7 @@
   "comment": 2,
   "code": 4},
 "SUM": {
-  "blank": 332798,
-  "comment": 930415,
-  "code": 3877877,
-  "nFiles": 20864} }
+  "blank": 339176,
+  "comment": 943558,
+  "code": 3906736,
+  "nFiles": 21355} }
