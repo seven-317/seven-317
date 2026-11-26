@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=seven&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=est.%20mmxxiv%20%C2%B7%20full-stack%20developer&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=0EA5E9&center=true&vCenter=true&width=620&lines=Turning+ideas+into+reality.;Full-stack+%C2%B7+Mobile+%C2%B7+System+design;Founder+and+CTO+at+White+Giving+Bug+Co." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=0EA5E9&center=true&vCenter=true&width=620&lines=Turning+ideas+into+reality.;Full-stack+%C2%B7+Mobile+%C2%B7+System+design;Founder+and+CTO+at+DeeBug+Co." alt="Typing SVG"/>
 
 <br/>
 
