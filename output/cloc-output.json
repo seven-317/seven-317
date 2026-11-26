@@ -1,1 +1,179 @@
-{}
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.98",
+  "elapsed_seconds"    : 14.1748678684235,
+  "n_files"            : 6258,
+  "n_lines"            : 1221730,
+  "files_per_second"   : 441.485596768107,
+  "lines_per_second"   : 86189.8686704218,
+  "report_file"        : "output/cloc-output.json"},
+"TypeScript" :{
+  "nFiles": 3361,
+  "blank": 60724,
+  "comment": 110058,
+  "code": 614066},
+"Python" :{
+  "nFiles": 594,
+  "blank": 14500,
+  "comment": 2616,
+  "code": 186951},
+"Dart" :{
+  "nFiles": 1001,
+  "blank": 8705,
+  "comment": 3648,
+  "code": 68893},
+"JavaScript" :{
+  "nFiles": 427,
+  "blank": 3081,
+  "comment": 1969,
+  "code": 26781},
+"Java" :{
+  "nFiles": 429,
+  "blank": 5356,
+  "comment": 14997,
+  "code": 24200},
+"Vuejs Component" :{
+  "nFiles": 111,
+  "blank": 770,
+  "comment": 1394,
+  "code": 22813},
+"Swift" :{
+  "nFiles": 121,
+  "blank": 2382,
+  "comment": 515,
+  "code": 18358},
+"SQL" :{
+  "nFiles": 27,
+  "blank": 768,
+  "comment": 623,
+  "code": 5419},
+"Kotlin" :{
+  "nFiles": 42,
+  "blank": 331,
+  "comment": 62,
+  "code": 3942},
+"PowerShell" :{
+  "nFiles": 21,
+  "blank": 240,
+  "comment": 10,
+  "code": 3281},
+"Velocity Template Language" :{
+  "nFiles": 13,
+  "blank": 157,
+  "comment": 7,
+  "code": 3177},
+"JSX" :{
+  "nFiles": 4,
+  "blank": 221,
+  "comment": 24,
+  "code": 2022},
+"CMake" :{
+  "nFiles": 24,
+  "blank": 264,
+  "comment": 119,
+  "code": 1023},
+"Maven" :{
+  "nFiles": 8,
+  "blank": 129,
+  "comment": 79,
+  "code": 1001},
+"C++" :{
+  "nFiles": 7,
+  "blank": 225,
+  "comment": 108,
+  "code": 995},
+"Rust" :{
+  "nFiles": 9,
+  "blank": 118,
+  "comment": 134,
+  "code": 969},
+"C" :{
+  "nFiles": 1,
+  "blank": 131,
+  "comment": 62,
+  "code": 610},
+"Bourne Shell" :{
+  "nFiles": 10,
+  "blank": 105,
+  "comment": 267,
+  "code": 484},
+"Gradle" :{
+  "nFiles": 8,
+  "blank": 70,
+  "comment": 15,
+  "code": 370},
+"DOS Batch" :{
+  "nFiles": 7,
+  "blank": 59,
+  "comment": 8,
+  "code": 229},
+"LESS" :{
+  "nFiles": 3,
+  "blank": 20,
+  "comment": 2,
+  "code": 148},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"C/C++ Header" :{
+  "nFiles": 6,
+  "blank": 42,
+  "comment": 53,
+  "code": 91},
+"WXML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 6,
+  "code": 84},
+"Dockerfile" :{
+  "nFiles": 7,
+  "blank": 34,
+  "comment": 16,
+  "code": 80},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 29,
+  "code": 69},
+"INI" :{
+  "nFiles": 4,
+  "blank": 15,
+  "comment": 0,
+  "code": 68},
+"Protocol Buffers" :{
+  "nFiles": 4,
+  "blank": 6,
+  "comment": 0,
+  "code": 41},
+"diff" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 6,
+  "code": 20},
+"Mako" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 17},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 10,
+  "code": 12},
+"Solidity" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 6,
+  "code": 12},
+"Lua" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 4},
+"SUM": {
+  "blank": 98514,
+  "comment": 136865,
+  "code": 986351,
+  "nFiles": 6258} }
