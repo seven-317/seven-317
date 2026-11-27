@@ -70,13 +70,13 @@ Dart         --> 68,893 lines
 JavaScript   --> 26,781 lines
 Java         --> 24,200 lines
 Swift        --> 18,358 lines
-Kotlin       --> 3,942 lines
+Kotlin       --> 4,603 lines
 CMake        --> 1,023 lines
 C++          --> 995 lines
 Rust         --> 969 lines
-Others       --> 40,173 lines
+Others       --> 40,188 lines
 
-[ TOTAL LINES OF CODE: 986,351 ]
+[ TOTAL LINES OF CODE: 987,027 ]
 ```
 <!-- LANGUAGES BREAKDOWN END -->
 
