@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 10.0952908992767,
-  "n_files"            : 6264,
-  "n_lines"            : 1222466,
-  "files_per_second"   : 620.487320523748,
-  "lines_per_second"   : 121092.696802584,
+  "elapsed_seconds"    : 11.6964921951294,
+  "n_files"            : 6274,
+  "n_lines"            : 1223504,
+  "files_per_second"   : 536.400135641743,
+  "lines_per_second"   : 104604.353133283,
   "report_file"        : "output/cloc-output.json"},
 "TypeScript" :{
   "nFiles": 3361,
@@ -42,16 +42,16 @@
   "blank": 2382,
   "comment": 515,
   "code": 18358},
+"Kotlin" :{
+  "nFiles": 58,
+  "blank": 500,
+  "comment": 64,
+  "code": 5512},
 "SQL" :{
   "nFiles": 27,
   "blank": 768,
   "comment": 623,
   "code": 5419},
-"Kotlin" :{
-  "nFiles": 48,
-  "blank": 389,
-  "comment": 62,
-  "code": 4603},
 "PowerShell" :{
   "nFiles": 21,
   "blank": 240,
@@ -99,9 +99,9 @@
   "code": 484},
 "Gradle" :{
   "nFiles": 8,
-  "blank": 72,
+  "blank": 74,
   "comment": 15,
-  "code": 385},
+  "code": 399},
 "DOS Batch" :{
   "nFiles": 7,
   "blank": 59,
@@ -173,7 +173,7 @@
   "comment": 2,
   "code": 4},
 "SUM": {
-  "blank": 98574,
-  "comment": 136865,
-  "code": 987027,
-  "nFiles": 6264} }
+  "blank": 98687,
+  "comment": 136867,
+  "code": 987950,
+  "nFiles": 6274} }
