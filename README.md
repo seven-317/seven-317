@@ -74,9 +74,9 @@ Kotlin       --> 5,512 lines
 CMake        --> 1,023 lines
 C++          --> 995 lines
 Rust         --> 969 lines
-Others       --> 40,202 lines
+Others       --> 39,275 lines
 
-[ TOTAL LINES OF CODE: 987,950 ]
+[ TOTAL LINES OF CODE: 987,023 ]
 ```
 <!-- LANGUAGES BREAKDOWN END -->
 
